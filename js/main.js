@@ -194,7 +194,7 @@ $(function () {
                 background: accent,
                 ease: "none",
             }, 0)
-            .reverse();
+            
 
         return function (clickedMenu) {
             if (clickedMenu === menu) {
@@ -671,6 +671,9 @@ $(function () {
             let minusElement = element.querySelector(".mil-minus");
             let plusElement = element.querySelector(".mil-plus");
 
+            // Check if this accordion should be open by default
+            let defaultOpen = element.getAttribute('data-default-open') === 'true';
+
             gsap.set(box, {
                 height: "auto",
             });
@@ -696,7 +699,7 @@ $(function () {
                     background: accent,
                     ease: "none",
                 }, 0)
-                .reverse();
+                
 
             return function (clickedMenu) {
                 if (clickedMenu === menu) {
