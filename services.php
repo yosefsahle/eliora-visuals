@@ -255,7 +255,7 @@
                                     <div class="col-lg-11">
                                         <div class="row">
                                             <div class="col-md-6 col-lg-6">
-                                                <a href="services/social-media-managment.php" class="mil-service-card-lg mil-more mil-accent-cursor mil-offset">
+                                                <a href="our-services/social-media-managment.php" class="mil-service-card-lg mil-more mil-accent-cursor mil-offset">
                                                     <h4 class="mil-muted mil-up mil-mb-30">Social Media <br> Management</h4>
                                                     <p class="mil-descr mil-light-soft mil-up mil-mb-30">We help brands build a strong online presence through strategy, content creation, posting, and audience engagement. Our social media management service is designed to grow your brand, improve consistency, and turn attention into real business results.</p>
                                                     <!-- <ul class="mil-service-list mil-light mil-mb-30">
@@ -275,7 +275,7 @@
                                                 </a>
                                             </div>
                                             <div class="col-md-6 col-lg-6">
-                                                <a href="services/weeding-production.php" class="mil-service-card-lg mil-more mil-accent-cursor mil-offset">
+                                                <a href="our-services/weeding-production.php" class="mil-service-card-lg mil-more mil-accent-cursor mil-offset">
                                                     <h4 class="mil-muted mil-up mil-mb-30">Wedding Service</h4>
                                                     <p class="mil-descr mil-light-soft mil-up mil-mb-30">We create timeless wedding films and photography that capture the beauty, emotion, and story of your special day. From intimate moments to grand celebrations, our team focuses on delivering cinematic visuals that allow you to relive every memory for years to come.</p>
                                                     <!-- <ul class="mil-service-list mil-light mil-mb-30">
@@ -294,7 +294,7 @@
                                             </div>
                                             
                                             <div class="col-md-6 col-lg-6">
-                                                <a href="services/music-clip-production.php" class="mil-service-card-lg mil-more mil-accent-cursor">
+                                                <a href="our-services/music-clip-production.php" class="mil-service-card-lg mil-more mil-accent-cursor">
                                                     <h4 class="mil-muted mil-up mil-mb-30">Music Clip <br>Production</h4>
                                                     <p class="mil-descr mil-light-soft mil-up mil-mb-30">We produce high-quality music videos that bring your sound, image, and artistic vision to life. Whether you want a simple performance-based video or a fully creative concept, we help artists stand out with visually powerful content.</p>
                                                     <!-- <ul class="mil-service-list mil-light mil-mb-30">
@@ -313,7 +313,7 @@
                                                 </a>
                                             </div>
                                             <div class="col-md-6 col-lg-6">
-                                                <a href="services/event-production.php" class="mil-service-card-lg mil-more mil-accent-cursor">
+                                                <a href="our-services/event-production.php" class="mil-service-card-lg mil-more mil-accent-cursor">
                                                     <h4 class="mil-muted mil-up mil-mb-30">Event Production</h4>
                                                     <p class="mil-descr mil-light-soft mil-up mil-mb-30">We provide professional event coverage and production services for corporate events, concerts, conferences, private celebrations, launches, and more. Our goal is to document the energy, atmosphere, and key moments of every event with excellence.</p>
                                                     <!-- <ul class="mil-service-list mil-light mil-mb-30">
@@ -332,7 +332,7 @@
                                                 </a>
                                             </div>
                                             <div class="col-md-6 col-lg-6">
-                                                <a href="services/tv-comercials.php" class="mil-service-card-lg mil-more mil-accent-cursor">
+                                                <a href="our-services/tv-comercials.php" class="mil-service-card-lg mil-more mil-accent-cursor">
                                                     <h4 class="mil-muted mil-up mil-mb-30">TV Commercials</h4>
                                                     <p class="mil-descr mil-light-soft mil-up mil-mb-30">We create impactful TV and promotional commercials that communicate your message with clarity, creativity, and strong visual storytelling. From concept to final delivery, we produce commercials that help brands connect with their audience and leave a lasting impression.</p>
                                                     <!-- <ul class="mil-service-list mil-light mil-mb-30">
@@ -351,7 +351,7 @@
                                                 </a>
                                             </div>
                                             <div class="col-md-6 col-lg-6">
-                                                <a href="services/live-streaming.php" class="mil-service-card-lg mil-more mil-accent-cursor">
+                                                <a href="our-services/live-streaming.php" class="mil-service-card-lg mil-more mil-accent-cursor">
                                                     <h4 class="mil-muted mil-up mil-mb-30">Live Streaming <br>Services</h4>
                                                     <p class="mil-descr mil-light-soft mil-up mil-mb-30">We provide professional live streaming solutions for events, conferences, concerts, church programs, business meetings and special productions. Our service is designed to help clients broadcast their events smoothly and professionally across digital platforms with reliable setup and high-quality visual presentation.</p>
                                                     <!-- <ul class="mil-service-list mil-light mil-mb-30">
