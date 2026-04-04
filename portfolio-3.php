@@ -67,7 +67,7 @@
         <div class="mil-menu-frame">
             <!-- frame clone -->
             <div class="mil-frame-top">
-                <a href="home-1.html" class="mil-logo">A.</a>
+                <a href="home-1.php" class="mil-logo">A.</a>
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -83,39 +83,39 @@
                                     <li class="mil-has-children">
                                         <a href="#.">Homepage</a>
                                         <ul>
-                                            <li><a href="home-1.html">Landing page</a></li>
-                                            <li><a href="home-2.html">Personal</a></li>
-                                            <li><a href="portfolio-3.html">Portfolio slider</a></li>
+                                            <li><a href="home-1.php">Landing page</a></li>
+                                            <li><a href="home-2.php">Personal</a></li>
+                                            <li><a href="portfolio-3.php">Portfolio slider</a></li>
                                         </ul>
                                     </li>
                                     <li class="mil-has-children mil-active">
                                         <a href="#.">Portfolio</a>
                                         <ul>
-                                            <li><a href="portfolio-1.html">Grid type 1</a></li>
-                                            <li><a href="portfolio-2.html">Grid type 2</a></li>
-                                            <li><a href="portfolio-3.html">Slider</a></li>
+                                            <li><a href="portfolio-1.php">Grid type 1</a></li>
+                                            <li><a href="portfolio-2.php">Grid type 2</a></li>
+                                            <li><a href="portfolio-3.php">Slider</a></li>
                                         </ul>
                                     </li>
                                     <li class="mil-has-children">
                                         <a href="#.">Services</a>
                                         <ul>
-                                            <li><a href="services.html">Services List</a></li>
-                                            <li><a href="service.html">Single service</a></li>
+                                            <li><a href="services.php">Services List</a></li>
+                                            <li><a href="service.php">Single service</a></li>
                                         </ul>
                                     </li>
                                     <li class="mil-has-children">
                                         <a href="#.">Newsletter</a>
                                         <ul>
-                                            <li><a href="blog.html">Blog List</a></li>
-                                            <li><a href="publication.html">Publication</a></li>
+                                            <li><a href="blog.php">Blog List</a></li>
+                                            <li><a href="publication.php">Publication</a></li>
                                         </ul>
                                     </li>
                                     <li class="mil-has-children">
                                         <a href="#.">Other pages</a>
                                         <ul>
-                                            <li><a href="team.html">Team</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                            <li><a href="404.html">404</a></li>
+                                            <li><a href="team.php">Team</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
+                                            <li><a href="404.php">404</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -137,12 +137,12 @@
                                             <h6 class="mil-muted mil-mb-30">Projects</h6>
 
                                             <ul class="mil-menu-list">
-                                                <li><a href="project-1.html" class="mil-light-soft">Interior design studio</a></li>
-                                                <li><a href="project-2.html" class="mil-light-soft">Home Security Camera</a></li>
-                                                <li><a href="project-3.html" class="mil-light-soft">Kemia Honest Skincare</a></li>
-                                                <li><a href="project-4.html" class="mil-light-soft">Cascade of Lava</a></li>
-                                                <li><a href="project-5.html" class="mil-light-soft">Air Pro by Molekule</a></li>
-                                                <li><a href="project-6.html" class="mil-light-soft">Tony's Chocolonely</a></li>
+                                                <li><a href="project-1.php" class="mil-light-soft">Interior design studio</a></li>
+                                                <li><a href="project-2.php" class="mil-light-soft">Home Security Camera</a></li>
+                                                <li><a href="project-3.php" class="mil-light-soft">Kemia Honest Skincare</a></li>
+                                                <li><a href="project-4.php" class="mil-light-soft">Cascade of Lava</a></li>
+                                                <li><a href="project-5.php" class="mil-light-soft">Air Pro by Molekule</a></li>
+                                                <li><a href="project-6.php" class="mil-light-soft">Tony's Chocolonely</a></li>
                                             </ul>
 
                                         </div>
@@ -194,7 +194,7 @@
         <!-- frame -->
         <div class="mil-frame">
             <div class="mil-frame-top">
-                <a href="home-1.html" class="mil-logo">A.</a>
+                <a href="home-1.php" class="mil-logo">A.</a>
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -241,7 +241,7 @@
                                                         <h5>Interior design studio</h5>
                                                     </div>
                                                     <div data-swiper-parallax-y="120" data-swiper-parallax-opacity="0">
-                                                        <a href="project-1.html" class="mil-button mil-arrow-place">
+                                                        <a href="project-1.php" class="mil-button mil-arrow-place">
                                                             <span>View Project</span>
                                                         </a>
                                                     </div>
@@ -266,7 +266,7 @@
                                                         <h5>Home Security Camera</h5>
                                                     </div>
                                                     <div data-swiper-parallax-y="100%" data-swiper-parallax-opacity="0">
-                                                        <a href="project-2.html" class="mil-button mil-arrow-place">
+                                                        <a href="project-2.php" class="mil-button mil-arrow-place">
                                                             <span>View Project</span>
                                                         </a>
                                                     </div>
@@ -291,7 +291,7 @@
                                                         <h5>Kemia Honest Skincare</h5>
                                                     </div>
                                                     <div data-swiper-parallax-y="100%" data-swiper-parallax-opacity="0">
-                                                        <a href="project-3.html" class="mil-button mil-arrow-place">
+                                                        <a href="project-3.php" class="mil-button mil-arrow-place">
                                                             <span>View Project</span>
                                                         </a>
                                                     </div>
@@ -316,7 +316,7 @@
                                                         <h5>Cascade of Lava</h5>
                                                     </div>
                                                     <div data-swiper-parallax-y="100%" data-swiper-parallax-opacity="0">
-                                                        <a href="project-4.html" class="mil-button mil-arrow-place">
+                                                        <a href="project-4.php" class="mil-button mil-arrow-place">
                                                             <span>View Project</span>
                                                         </a>
                                                     </div>
@@ -341,7 +341,7 @@
                                                         <h5>Air Pro by Molekule</h5>
                                                     </div>
                                                     <div data-swiper-parallax-y="100%" data-swiper-parallax-opacity="0">
-                                                        <a href="project-5.html" class="mil-button mil-arrow-place">
+                                                        <a href="project-5.php" class="mil-button mil-arrow-place">
                                                             <span>View Project</span>
                                                         </a>
                                                     </div>
@@ -366,7 +366,7 @@
                                                         <h5>Tony's Chocolonely</h5>
                                                     </div>
                                                     <div data-swiper-parallax-y="100%" data-swiper-parallax-opacity="0">
-                                                        <a href="project-6.html" class="mil-button mil-arrow-place">
+                                                        <a href="project-6.php" class="mil-button mil-arrow-place">
                                                             <span>View Project</span>
                                                         </a>
                                                     </div>

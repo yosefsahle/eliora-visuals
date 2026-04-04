@@ -67,7 +67,7 @@
         <div class="mil-menu-frame">
             <!-- frame clone -->
             <div class="mil-frame-top">
-                <a href="home-1.html" class="mil-logo">A.</a>
+                <a href="home-1.php" class="mil-logo">A.</a>
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -83,39 +83,39 @@
                                     <li class="mil-has-children">
                                         <a href="#.">Homepage</a>
                                         <ul>
-                                            <li><a href="home-1.html">Landing page</a></li>
-                                            <li><a href="home-2.html">Personal</a></li>
-                                            <li><a href="portfolio-3.html">Portfolio slider</a></li>
+                                            <li><a href="home-1.php">Landing page</a></li>
+                                            <li><a href="home-2.php">Personal</a></li>
+                                            <li><a href="portfolio-3.php">Portfolio slider</a></li>
                                         </ul>
                                     </li>
-                                    <li class="mil-has-children mil-active">
+                                    <li class="mil-has-children">
                                         <a href="#.">Portfolio</a>
                                         <ul>
-                                            <li><a href="portfolio-1.html">Grid type 1</a></li>
-                                            <li><a href="portfolio-2.html">Grid type 2</a></li>
-                                            <li><a href="portfolio-3.html">Slider</a></li>
+                                            <li><a href="portfolio-1.php">Grid type 1</a></li>
+                                            <li><a href="portfolio-2.php">Grid type 2</a></li>
+                                            <li><a href="portfolio-3.php">Slider</a></li>
                                         </ul>
                                     </li>
                                     <li class="mil-has-children">
                                         <a href="#.">Services</a>
                                         <ul>
-                                            <li><a href="services.html">Services List</a></li>
-                                            <li><a href="service.html">Single service</a></li>
+                                            <li><a href="services.php">Services List</a></li>
+                                            <li><a href="service.php">Single service</a></li>
                                         </ul>
                                     </li>
-                                    <li class="mil-has-children">
+                                    <li class="mil-has-children mil-active">
                                         <a href="#.">Newsletter</a>
                                         <ul>
-                                            <li><a href="blog.html">Blog List</a></li>
-                                            <li><a href="publication.html">Publication</a></li>
+                                            <li><a href="blog.php">Blog List</a></li>
+                                            <li><a href="publication.php">Publication</a></li>
                                         </ul>
                                     </li>
                                     <li class="mil-has-children">
                                         <a href="#.">Other pages</a>
                                         <ul>
-                                            <li><a href="team.html">Team</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                            <li><a href="404.html">404</a></li>
+                                            <li><a href="team.php">Team</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
+                                            <li><a href="404.php">404</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -137,12 +137,12 @@
                                             <h6 class="mil-muted mil-mb-30">Projects</h6>
 
                                             <ul class="mil-menu-list">
-                                                <li><a href="project-1.html" class="mil-light-soft">Interior design studio</a></li>
-                                                <li><a href="project-2.html" class="mil-light-soft">Home Security Camera</a></li>
-                                                <li><a href="project-3.html" class="mil-light-soft">Kemia Honest Skincare</a></li>
-                                                <li><a href="project-4.html" class="mil-light-soft">Cascade of Lava</a></li>
-                                                <li><a href="project-5.html" class="mil-light-soft">Air Pro by Molekule</a></li>
-                                                <li><a href="project-6.html" class="mil-light-soft">Tony's Chocolonely</a></li>
+                                                <li><a href="project-1.php" class="mil-light-soft">Interior design studio</a></li>
+                                                <li><a href="project-2.php" class="mil-light-soft">Home Security Camera</a></li>
+                                                <li><a href="project-3.php" class="mil-light-soft">Kemia Honest Skincare</a></li>
+                                                <li><a href="project-4.php" class="mil-light-soft">Cascade of Lava</a></li>
+                                                <li><a href="project-5.php" class="mil-light-soft">Air Pro by Molekule</a></li>
+                                                <li><a href="project-6.php" class="mil-light-soft">Tony's Chocolonely</a></li>
                                             </ul>
 
                                         </div>
@@ -194,7 +194,7 @@
         <!-- frame -->
         <div class="mil-frame">
             <div class="mil-frame-top">
-                <a href="home-1.html" class="mil-logo">A.</a>
+                <a href="home-1.php" class="mil-logo">A.</a>
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -215,137 +215,77 @@
             <div id="swupMain" class="mil-main-transition">
 
                 <!-- banner -->
-                <div class="mil-inner-banner">
+                <div class="mil-inner-banner mil-p-0-120">
                     <div class="mil-banner-content mil-up">
                         <div class="mil-animation-frame">
                             <div class="mil-animation mil-position-4 mil-dark mil-scale" data-value-1="6" data-value-2="1.4"></div>
                         </div>
                         <div class="container">
                             <ul class="mil-breadcrumbs mil-mb-60">
-                                <li><a href="home-1.html">Homepage</a></li>
-                                <li><a href="portfolio-1.html">Portfolio</a></li>
+                                <li><a href="home-1.php">Homepage</a></li>
+                                <li><a href="blog.php">Blog</a></li>
                             </ul>
-                            <h1 class="mil-mb-60">Designing a <br> Better <span class="mil-thin">World Today</span></h1>
-                            <a href="#portfolio" class="mil-link mil-dark mil-arrow-place mil-down-arrow">
-                                <span>Our works</span>
+                            <h1 class="mil-mb-60">Exploring <span class="mil-thin">the World</span> <br> Through Our <span class="mil-thin">Blog</span></h1>
+                            <a href="#blog" class="mil-link mil-dark mil-arrow-place mil-down-arrow">
+                                <span>Publications</span>
                             </a>
                         </div>
                     </div>
                 </div>
                 <!-- banner end -->
 
-                <!-- portfolio -->
-                <section id="portfolio">
-                    <div class="container mil-portfolio mil-p-120-60">
+                <!-- popular -->
+                <section class="mil-soft-bg" id="blog">
+                    <div class="container mil-p-120-60">
+                        <div class="row align-items-center mil-mb-30">
+                            <div class="col-lg-6 mil-mb-30">
+                                <h3 class="mil-up">Popular Publications:</h3>
+                            </div>
+                            <div class="col-lg-6 mil-mb-30">
+                                <div class="mil-adaptive-right mil-up">
+                                    <a href="blog-inner.php" class="mil-link mil-dark mil-arrow-place">
+                                        <span>View all</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6">
 
-                        <div class="mil-lines-place"></div>
-                        <div class="mil-lines-place mil-lines-long"></div>
-
-                        <div class="row justify-content-between align-items-center">
-                            <div class="col-lg-5">
-
-                                <a href="project-1.html" class="mil-portfolio-item mil-more mil-mb-60">
-                                    <div class="mil-cover-frame mil-vert mil-up">
-                                        <div class="mil-cover">
-                                            <img src="img/works/1.jpg" alt="cover">
-                                        </div>
+                                <a href="publication.php" class="mil-blog-card mil-mb-60">
+                                    <div class="mil-cover-frame mil-up">
+                                        <img src="img/blog/1.jpg" alt="cover">
                                     </div>
-                                    <div class="mil-descr">
-                                        <div class="mil-labels mil-up mil-mb-15">
-                                            <div class="mil-label mil-upper mil-accent">Branding</div>
+                                    <div class="mil-post-descr">
+                                        <div class="mil-labels mil-up mil-mb-30">
+                                            <div class="mil-label mil-upper mil-accent">TECHNOLOGY</div>
                                             <div class="mil-label mil-upper">may 24 2023</div>
                                         </div>
-                                        <h4 class="mil-up">Interior design studio</h4>
+                                        <h4 class="mil-up mil-mb-30">How to Become a Graphic Designer in 10 Simple Steps</h4>
+                                        <p class="mil-post-text mil-up mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos optio, beatae, eos necessitatibus nisi. Nam cupiditate consectetur nostrum qui! Repellat natus nulla, nisi aliquid, asperiores impedit tempora sequi est reprehenderit cumque explicabo, dicta. Rem nihil ullam totam ea voluptas quibusdam repudiandae id ut at iure! Totam, a!</p>
+                                        <div class="mil-link mil-dark mil-arrow-place mil-up">
+                                            <span>Read more</span>
+                                        </div>
                                     </div>
                                 </a>
 
                             </div>
                             <div class="col-lg-6">
 
-                                <a href="project-2.html" class="mil-portfolio-item mil-more mil-parallax mil-mb-60" data-value-1="60" data-value-2="-60">
-                                    <div class="mil-cover-frame mil-hori mil-up">
-                                        <div class="mil-cover">
-                                            <img src="img/works/2.jpg" alt="cover">
-                                        </div>
+                                <a href="publication.php" class="mil-blog-card mil-mb-60">
+                                    <div class="mil-cover-frame mil-up">
+                                        <img src="img/blog/2.jpg" alt="cover">
                                     </div>
-                                    <div class="mil-descr">
-                                        <div class="mil-labels mil-up mil-mb-15">
-                                            <div class="mil-label mil-upper mil-accent">Design</div>
+                                    <div class="mil-post-descr">
+                                        <div class="mil-labels mil-up mil-mb-30">
+                                            <div class="mil-label mil-upper mil-accent">TECHNOLOGY</div>
                                             <div class="mil-label mil-upper">may 24 2023</div>
                                         </div>
-                                        <h4 class="mil-up">Home Security Camera</h4>
-                                    </div>
-                                </a>
-
-                            </div>
-                            <div class="col-lg-6">
-
-                                <a href="project-3.html" class="mil-portfolio-item mil-more mil-parallax mil-mb-60" data-value-1="60" data-value-2="-60">
-                                    <div class="mil-cover-frame mil-hori mil-up">
-                                        <div class="mil-cover">
-                                            <img src="img/works/3.jpg" alt="cover">
+                                        <h4 class="mil-up mil-mb-30">16 Best Graphic Design Online and Offline Courses</h4>
+                                        <p class="mil-post-text mil-up mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos optio, beatae, eos necessitatibus nisi. Nam cupiditate consectetur nostrum qui! Repellat natus nulla, nisi aliquid, asperiores impedit tempora sequi est reprehenderit cumque explicabo, dicta. Rem nihil ullam totam ea voluptas quibusdam repudiandae id ut at iure! Totam, a!</p>
+                                        <div class="mil-link mil-dark mil-arrow-place mil-up">
+                                            <span>Read more</span>
                                         </div>
-                                    </div>
-                                    <div class="mil-descr">
-                                        <div class="mil-labels mil-up mil-mb-15">
-                                            <div class="mil-label mil-upper mil-accent">Design</div>
-                                            <div class="mil-label mil-upper">may 24 2023</div>
-                                        </div>
-                                        <h4 class="mil-up">Kemia Honest Skincare</h4>
-                                    </div>
-                                </a>
-
-                            </div>
-                            <div class="col-lg-5">
-
-                                <a href="project-4.html" class="mil-portfolio-item mil-more mil-mb-60">
-                                    <div class="mil-cover-frame mil-vert mil-up">
-                                        <div class="mil-cover">
-                                            <img src="img/works/4.jpg" alt="cover">
-                                        </div>
-                                    </div>
-                                    <div class="mil-descr">
-                                        <div class="mil-labels mil-up mil-mb-15">
-                                            <div class="mil-label mil-upper mil-accent">Photography</div>
-                                            <div class="mil-label mil-upper">may 24 2023</div>
-                                        </div>
-                                        <h4 class="mil-up">Cascade of Lava</h4>
-                                    </div>
-                                </a>
-
-                            </div>
-                            <div class="col-lg-5">
-
-                                <a href="project-5.html" class="mil-portfolio-item mil-more mil-mb-60">
-                                    <div class="mil-cover-frame mil-vert mil-up">
-                                        <div class="mil-cover">
-                                            <img src="img/works/5.jpg" alt="cover">
-                                        </div>
-                                    </div>
-                                    <div class="mil-descr">
-                                        <div class="mil-labels mil-up mil-mb-15">
-                                            <div class="mil-label mil-upper mil-accent">Design</div>
-                                            <div class="mil-label mil-upper">may 24 2023</div>
-                                        </div>
-                                        <h4 class="mil-up">Air Pro by Molekule</h4>
-                                    </div>
-                                </a>
-
-                            </div>
-                            <div class="col-lg-6">
-
-                                <a href="project-6.html" class="mil-portfolio-item mil-more mil-parallax mil-mb-60" data-value-1="60" data-value-2="-60">
-                                    <div class="mil-cover-frame mil-hori mil-up">
-                                        <div class="mil-cover">
-                                            <img src="img/works/6.jpg" alt="cover">
-                                        </div>
-                                    </div>
-                                    <div class="mil-descr">
-                                        <div class="mil-labels mil-up mil-mb-15">
-                                            <div class="mil-label mil-upper mil-accent">Design</div>
-                                            <div class="mil-label mil-upper">may 24 2023</div>
-                                        </div>
-                                        <h4 class="mil-up">Tony's Chocolonely</h4>
                                     </div>
                                 </a>
 
@@ -353,7 +293,122 @@
                         </div>
                     </div>
                 </section>
-                <!-- portfolio end -->
+                <!-- popular end -->
+
+                <!-- blog -->
+                <section>
+                    <div class="container mil-p-120-120">
+                        <div class="row align-items-center mil-mb-30">
+                            <div class="col-lg-4 mil-mb-30">
+                                <h3 class="mil-up">Categories:</h3>
+                            </div>
+                            <div class="col-lg-8 mil-mb-30">
+                                <div class="mil-adaptive-right mil-up">
+
+                                    <ul class="mil-category-list">
+                                        <li><a href="blog-inner.php">Design</a></li>
+                                        <li><a href="blog-inner.php">Art</a></li>
+                                        <li><a href="blog-inner.php">Code</a></li>
+                                        <li><a href="blog-inner.php">Technology</a></li>
+                                        <li><a href="blog-inner.php" class="mil-active">All categories</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+
+                                <a href="publication.php" class="mil-blog-card mil-blog-card-hori mil-more mil-mb-60">
+                                    <div class="mil-cover-frame mil-up">
+                                        <img src="img/blog/3.jpg" alt="cover">
+                                    </div>
+                                    <div class="mil-post-descr">
+                                        <div class="mil-labels mil-up mil-mb-30">
+                                            <div class="mil-label mil-upper mil-accent">TECHNOLOGY</div>
+                                            <div class="mil-label mil-upper">may 24 2023</div>
+                                        </div>
+                                        <h4 class="mil-up mil-mb-30">How to Create a Brand Guide for Your Client</h4>
+                                        <p class="mil-post-text mil-up mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos optio, beatae, eos necessitatibus nisi. Nam cupiditate consectetur nostrum qui! Repellat natus nulla, nisi aliquid, asperiores impedit tempora sequi est reprehenderit cumque explicabo, dicta. Rem nihil ullam totam ea voluptas quibusdam repudiandae id ut at iure! Totam, a!</p>
+                                        <div class="mil-link mil-dark mil-arrow-place mil-up">
+                                            <span>Read more</span>
+                                        </div>
+                                    </div>
+                                </a>
+
+                            </div>
+                            <div class="col-lg-12">
+
+                                <a href="publication.php" class="mil-blog-card mil-blog-card-hori mil-more mil-mb-60">
+                                    <div class="mil-cover-frame mil-up">
+                                        <img src="img/blog/4.jpg" alt="cover">
+                                    </div>
+                                    <div class="mil-post-descr">
+                                        <div class="mil-labels mil-up mil-mb-30">
+                                            <div class="mil-label mil-upper mil-accent">TECHNOLOGY</div>
+                                            <div class="mil-label mil-upper">may 24 2023</div>
+                                        </div>
+                                        <h4 class="mil-up mil-mb-30">Color Psychology in Art and Design</h4>
+                                        <p class="mil-post-text mil-up mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos optio, beatae, eos necessitatibus nisi. Nam cupiditate consectetur nostrum qui! Repellat natus nulla, nisi aliquid, asperiores impedit tempora sequi est reprehenderit cumque explicabo, dicta. Rem nihil ullam totam ea voluptas quibusdam repudiandae id ut at iure! Totam, a!</p>
+                                        <div class="mil-link mil-dark mil-arrow-place mil-up">
+                                            <span>Read more</span>
+                                        </div>
+                                    </div>
+                                </a>
+
+                            </div>
+                            <div class="col-lg-12">
+
+                                <a href="publication.php" class="mil-blog-card mil-blog-card-hori mil-more mil-mb-60">
+                                    <div class="mil-cover-frame mil-up">
+                                        <img src="img/blog/5.jpg" alt="cover">
+                                    </div>
+                                    <div class="mil-post-descr">
+                                        <div class="mil-labels mil-up mil-mb-30">
+                                            <div class="mil-label mil-upper mil-accent">TECHNOLOGY</div>
+                                            <div class="mil-label mil-upper">may 24 2023</div>
+                                        </div>
+                                        <h4 class="mil-up mil-mb-30">How to Design a Repeating Pattern</h4>
+                                        <p class="mil-post-text mil-up mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos optio, beatae, eos necessitatibus nisi. Nam cupiditate consectetur nostrum qui! Repellat natus nulla, nisi aliquid, asperiores impedit tempora sequi est reprehenderit cumque explicabo, dicta. Rem nihil ullam totam ea voluptas quibusdam repudiandae id ut at iure! Totam, a!</p>
+                                        <div class="mil-link mil-dark mil-arrow-place mil-up">
+                                            <span>Read more</span>
+                                        </div>
+                                    </div>
+                                </a>
+
+                            </div>
+                            <div class="col-lg-12">
+
+                                <a href="publication.php" class="mil-blog-card mil-blog-card-hori mil-more mil-mb-60">
+                                    <div class="mil-cover-frame mil-up">
+                                        <img src="img/blog/6.jpg" alt="cover">
+                                    </div>
+                                    <div class="mil-post-descr">
+                                        <div class="mil-labels mil-up mil-mb-30">
+                                            <div class="mil-label mil-upper mil-accent">TECHNOLOGY</div>
+                                            <div class="mil-label mil-upper">may 24 2023</div>
+                                        </div>
+                                        <h4 class="mil-up mil-mb-30">How to Never Reach Creative Burnout</h4>
+                                        <p class="mil-post-text mil-up mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos optio, beatae, eos necessitatibus nisi. Nam cupiditate consectetur nostrum qui! Repellat natus nulla, nisi aliquid, asperiores impedit tempora sequi est reprehenderit cumque explicabo, dicta. Rem nihil ullam totam ea voluptas quibusdam repudiandae id ut at iure! Totam, a!</p>
+                                        <div class="mil-link mil-dark mil-arrow-place mil-up">
+                                            <span>Read more</span>
+                                        </div>
+                                    </div>
+                                </a>
+
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="mil-pagination">
+                                    <a href="blog-inner.php" class="mil-pagination-btn mil-active">1</a>
+                                    <a href="blog-inner.php" class="mil-pagination-btn">2</a>
+                                    <a href="blog-inner.php" class="mil-pagination-btn">3</a>
+                                    <a href="blog-inner.php" class="mil-pagination-btn">4</a>
+                                    <a href="blog-inner.php" class="mil-pagination-btn">5</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- blog end -->
 
                 <!-- call to action -->
                 <section class="mil-soft-bg">
@@ -366,110 +421,22 @@
                             </div>
                         </div>
                         <div class="mil-center">
-                            <h2 class="mil-up mil-mb-60">Ready to bring your <span class="mil-thin">ideas to</span> life? <br> We're <span class="mil-thin">here to help</span></h2>
-                            <div class="mil-up"><a href="contact.html" class="mil-button mil-arrow-place"><span>Contact us</span></a></div>
+                            <h2 class="mil-up mil-mb-60">Stay up-to-date <span class="mil-thin">with the</span><br> latest news by <span class="mil-thin">subscribing</span><br> to our <span class="mil-thin">newsletter!</span></h2>
+                            <div class="row justify-content-center mil-up">
+                                <div class="col-lg-4">
+                                    <form class="mil-subscribe-form mil-subscribe-form-2 mil-up">
+                                        <input type="text" placeholder="Enter our email">
+                                        <button type="submit" class="mil-button mil-icon-button-sm mil-arrow-place"></button>
+                                    </form>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </section>
                 <!-- call to action end -->
 
                 <!-- footer -->
-                <footer class="mil-dark-bg">
-                    <div class="mi-invert-fix">
-                        <div class="container mil-p-120-60">
-                            <div class="row justify-content-between">
-                                <div class="col-md-4 col-lg-4 mil-mb-60">
-
-                                    <div class="mil-muted mil-logo mil-up mil-mb-30">Ashley.</div>
-
-                                    <p class="mil-light-soft mil-up mil-mb-30">Subscribe our newsletter:</p>
-
-                                    <form class="mil-subscribe-form mil-up">
-                                        <input type="text" placeholder="Enter our email">
-                                        <button type="submit" class="mil-button mil-icon-button-sm mil-arrow-place"></button>
-                                    </form>
-
-                                </div>
-                                <div class="col-md-7 col-lg-6">
-                                    <div class="row justify-content-end">
-                                        <div class="col-md-6 col-lg-7">
-
-                                            <nav class="mil-footer-menu mil-mb-60">
-                                                <ul>
-                                                    <li class="mil-up mil-active">
-                                                        <a href="home-1.html">Home</a>
-                                                    </li>
-                                                    <li class="mil-up">
-                                                        <a href="portfolio-1.html">Portfolio</a>
-                                                    </li>
-                                                    <li class="mil-up">
-                                                        <a href="services.html">Services</a>
-                                                    </li>
-                                                    <li class="mil-up">
-                                                        <a href="contact.html">Contact</a>
-                                                    </li>
-                                                    <li class="mil-up">
-                                                        <a href="blog.html">Blog</a>
-                                                    </li>
-                                                </ul>
-                                            </nav>
-
-                                        </div>
-                                        <div class="col-md-6 col-lg-5">
-
-                                            <ul class="mil-menu-list mil-up mil-mb-60">
-                                                <li><a href="#." class="mil-light-soft">Privacy Policy</a></li>
-                                                <li><a href="#." class="mil-light-soft">Terms and conditions</a></li>
-                                                <li><a href="#." class="mil-light-soft">Cookie Policy</a></li>
-                                                <li><a href="#." class="mil-light-soft">Careers</a></li>
-                                            </ul>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="row justify-content-between flex-sm-row-reverse">
-                                <div class="col-md-7 col-lg-6">
-
-                                    <div class="row justify-content-between">
-
-                                        <div class="col-md-6 col-lg-5 mil-mb-60">
-
-                                            <h6 class="mil-muted mil-up mil-mb-30">Canada</h6>
-
-                                            <p class="mil-light-soft mil-up">71 South Los Carneros Road, California <span class="mil-no-wrap">+51 174 705 812</span></p>
-
-                                        </div>
-                                        <div class="col-md-6 col-lg-5 mil-mb-60">
-
-                                            <h6 class="mil-muted mil-up mil-mb-30">Germany</h6>
-
-                                            <p class="mil-light-soft mil-up">Leehove 40, 2678 MC De Lier, Netherlands <span class="mil-no-wrap">+31 174 705 811</span></p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <div class="col-md-4 col-lg-6 mil-mb-60">
-
-                                    <div class="mil-vert-between">
-                                        <div class="mil-mb-30">
-                                            <ul class="mil-social-icons mil-up">
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="far fa-circle"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="far fa-circle"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="far fa-circle"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="far fa-circle"></i></a></li>
-                                            </ul>
-                                        </div>
-                                        <p class="mil-light-soft mil-up">© Copyright 2023 - Mil. All Rights Reserved.</p>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </footer>
+                <?php include 'footer.php'; ?>
                 <!-- footer end -->
 
                 <!-- hidden elements -->

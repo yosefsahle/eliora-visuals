@@ -67,7 +67,7 @@
         <div class="mil-menu-frame">
             <!-- frame clone -->
             <div class="mil-frame-top">
-                <a href="home-1.html" class="mil-logo">A.</a>
+                <a href="home-1.php" class="mil-logo">A.</a>
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -83,39 +83,39 @@
                                     <li class="mil-has-children">
                                         <a href="#.">Homepage</a>
                                         <ul>
-                                            <li><a href="home-1.html">Landing page</a></li>
-                                            <li><a href="home-2.html">Personal</a></li>
-                                            <li><a href="portfolio-3.html">Portfolio slider</a></li>
+                                            <li><a href="home-1.php">Landing page</a></li>
+                                            <li><a href="home-2.php">Personal</a></li>
+                                            <li><a href="portfolio-3.php">Portfolio slider</a></li>
                                         </ul>
                                     </li>
                                     <li class="mil-has-children">
                                         <a href="#.">Portfolio</a>
                                         <ul>
-                                            <li><a href="portfolio-1.html">Grid type 1</a></li>
-                                            <li><a href="portfolio-2.html">Grid type 2</a></li>
-                                            <li><a href="portfolio-3.html">Slider</a></li>
+                                            <li><a href="portfolio-1.php">Grid type 1</a></li>
+                                            <li><a href="portfolio-2.php">Grid type 2</a></li>
+                                            <li><a href="portfolio-3.php">Slider</a></li>
                                         </ul>
                                     </li>
                                     <li class="mil-has-children">
                                         <a href="#.">Services</a>
                                         <ul>
-                                            <li><a href="services.html">Services List</a></li>
-                                            <li><a href="service.html">Single service</a></li>
+                                            <li><a href="services.php">Services List</a></li>
+                                            <li><a href="service.php">Single service</a></li>
                                         </ul>
                                     </li>
                                     <li class="mil-has-children">
                                         <a href="#.">Newsletter</a>
                                         <ul>
-                                            <li><a href="blog.html">Blog List</a></li>
-                                            <li><a href="publication.html">Publication</a></li>
+                                            <li><a href="blog.php">Blog List</a></li>
+                                            <li><a href="publication.php">Publication</a></li>
                                         </ul>
                                     </li>
                                     <li class="mil-has-children mil-active">
                                         <a href="#.">Other pages</a>
                                         <ul>
-                                            <li><a href="team.html">Team</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                            <li><a href="404.html">404</a></li>
+                                            <li><a href="team.php">Team</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
+                                            <li><a href="404.php">404</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -137,12 +137,12 @@
                                             <h6 class="mil-muted mil-mb-30">Projects</h6>
 
                                             <ul class="mil-menu-list">
-                                                <li><a href="project-1.html" class="mil-light-soft">Interior design studio</a></li>
-                                                <li><a href="project-2.html" class="mil-light-soft">Home Security Camera</a></li>
-                                                <li><a href="project-3.html" class="mil-light-soft">Kemia Honest Skincare</a></li>
-                                                <li><a href="project-4.html" class="mil-light-soft">Cascade of Lava</a></li>
-                                                <li><a href="project-5.html" class="mil-light-soft">Air Pro by Molekule</a></li>
-                                                <li><a href="project-6.html" class="mil-light-soft">Tony's Chocolonely</a></li>
+                                                <li><a href="project-1.php" class="mil-light-soft">Interior design studio</a></li>
+                                                <li><a href="project-2.php" class="mil-light-soft">Home Security Camera</a></li>
+                                                <li><a href="project-3.php" class="mil-light-soft">Kemia Honest Skincare</a></li>
+                                                <li><a href="project-4.php" class="mil-light-soft">Cascade of Lava</a></li>
+                                                <li><a href="project-5.php" class="mil-light-soft">Air Pro by Molekule</a></li>
+                                                <li><a href="project-6.php" class="mil-light-soft">Tony's Chocolonely</a></li>
                                             </ul>
 
                                         </div>
@@ -194,7 +194,7 @@
         <!-- frame -->
         <div class="mil-frame">
             <div class="mil-frame-top">
-                <a href="home-1.html" class="mil-logo">A.</a>
+                <a href="home-1.php" class="mil-logo">A.</a>
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -222,176 +222,119 @@
                         </div>
                         <div class="container">
                             <ul class="mil-breadcrumbs mil-mb-60">
-                                <li><a href="home-1.html">Homepage</a></li>
-                                <li><a href="team.html">Team</a></li>
+                                <li><a href="home-1.php">Homepage</a></li>
+                                <li><a href="portfolio-1.php">Portfolio</a></li>
+                                <li><a href="project-1.php">Project</a></li>
                             </ul>
-                            <h1 class="mil-mb-60">Meet <span class="mil-thin">Our</span><br> Creative <span class="mil-thin">Team</span></h1>
-                            <a href="#team" class="mil-link mil-dark mil-arrow-place mil-down-arrow">
-                                <span>Our team</span>
+                            <h1 class="mil-mb-60">Air Pro <span class="mil-thin">by Molekule</span></h1>
+                            <a href="#project" class="mil-link mil-dark mil-arrow-place mil-down-arrow">
+                                <span>Read more</span>
                             </a>
                         </div>
                     </div>
                 </div>
                 <!-- banner end -->
 
-                <!-- team -->
-                <section id="team">
-                    <div class="container mil-p-120-90">
-                        <div class="row">
-                            <div class="col-sm-6 col-md-4 col-lg-3">
+                <!-- project -->
+                <section class="mil-p-120-0">
+                    <div class="mil-image-frame mil-fw mil-up">
+                        <img src="img/works/5/1.jpg" alt="image">
+                        <a data-fancybox="gallery" data-no-swup href="img/works/5/1.jpg" class="mil-zoom-btn">
+                            <img src="img/icons/zoom.svg" alt="zoom">
+                        </a>
+                    </div>
+                    <div class="container mil-p-0-120" id="project">
+                        <div class="mil-info mil-up">
+                            <div>Client: &nbsp;<span class="mil-dark">Envato Market</span></div>
+                            <div>Date: &nbsp;<span class="mil-dark">April 2023</span></div>
+                            <div>Author: &nbsp;<span class="mil-dark">Paul Trueman</span></div>
+                        </div>
+                        <div class="mil-p-120-0">
+                            <div class="swiper-container mil-2-slider mil-up">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
 
-                                <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/faces/1.jpg" alt="Team member">
-                                    <div class="mil-description">
-                                        <div class="mil-secrc-text">
-                                            <h5 class="mil-muted mil-mb-5"><a href="home-2.html">Anna Oldman</a></h5>
-                                            <p class="mil-link mil-light-soft mil-mb-10">Art Director</p>
-                                            <ul class="mil-social-icons mil-center">
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                            </ul>
+                                        <div class="mil-image-frame mil-square mil-drag">
+                                            <img src="img/works/5/2.jpg" alt="image">
+                                            <a data-fancybox="gallery" data-no-swup href="img/works/5/2.jpg" class="mil-zoom-btn">
+                                                <img src="img/icons/zoom.svg" alt="zoom">
+                                            </a>
                                         </div>
+
+                                    </div>
+                                    <div class="swiper-slide">
+
+                                        <div class="mil-image-frame mil-square mil-drag">
+                                            <img src="img/works/5/3.gif" alt="image">
+                                            <a data-fancybox="gallery" data-no-swup href="img/works/5/3.gif" class="mil-zoom-btn">
+                                                <img src="img/icons/zoom.svg" alt="zoom">
+                                            </a>
+                                        </div>
+
+                                    </div>
+                                    <div class="swiper-slide">
+
+                                        <div class="mil-image-frame mil-square mil-drag">
+                                            <img src="img/works/5/4.jpg" alt="image">
+                                            <a data-fancybox="gallery" data-no-swup href="img/works/5/4.jpg" class="mil-zoom-btn">
+                                                <img src="img/icons/zoom.svg" alt="zoom">
+                                            </a>
+                                        </div>
+
+                                    </div>
+                                    <div class="swiper-slide">
+
+                                        <div class="mil-image-frame mil-square mil-drag">
+                                            <img src="img/works/5/5.gif" alt="image">
+                                            <a data-fancybox="gallery" data-no-swup href="img/works/5/5.gif" class="mil-zoom-btn">
+                                                <img src="img/icons/zoom.svg" alt="zoom">
+                                            </a>
+                                        </div>
+
+                                    </div>
+                                    <div class="swiper-slide">
+
+                                        <div class="mil-image-frame mil-square mil-drag">
+                                            <img src="img/works/5/6.jpg" alt="image">
+                                            <a data-fancybox="gallery" data-no-swup href="img/works/5/6.jpg" class="mil-zoom-btn">
+                                                <img src="img/icons/zoom.svg" alt="zoom">
+                                            </a>
+                                        </div>
+
                                     </div>
                                 </div>
-
                             </div>
-                            <div class="col-sm-6 col-md-4 col-lg-3">
-
-                                <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/faces/3.jpg" alt="Team member">
-                                    <div class="mil-description">
-                                        <div class="mil-secrc-text">
-                                            <h5 class="mil-muted mil-mb-5"><a href="home-2.html">Oscar Freeman</a></h5>
-                                            <p class="mil-link mil-light-soft mil-mb-10">Frontend Dev</p>
-                                            <ul class="mil-social-icons mil-center">
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                            <div class="row justify-content-between mil-p-120-120">
+                                <div class="col-lg-5">
+                                    <h3 class="mil-up mil-mb-60">Simplicity, elegance, innovation!</h3>
                                 </div>
+                                <div class="col-lg-6">
+                                    <p class="mil-up mil-mb-30">A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
 
-                            </div>
-                            <div class="col-sm-6 col-md-4 col-lg-3">
-
-                                <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/faces/2.jpg" alt="Team member">
-                                    <div class="mil-description">
-                                        <div class="mil-secrc-text">
-                                            <h5 class="mil-muted mil-mb-5"><a href="home-2.html">Emma Newman</a></h5>
-                                            <p class="mil-link mil-light-soft mil-mb-10">Founder</p>
-                                            <ul class="mil-social-icons mil-center">
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                                    <p class="mil-up">Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
                                 </div>
-
                             </div>
-                            <div class="col-sm-6 col-md-4 col-lg-3">
-
-                                <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/faces/4.jpg" alt="Team member">
-                                    <div class="mil-description">
-                                        <div class="mil-secrc-text">
-                                            <h5 class="mil-muted mil-mb-5"><a href="home-2.html">Lisa Trueman</a></h5>
-                                            <p class="mil-link mil-light-soft mil-mb-10">UI/UX Designer</p>
-                                            <ul class="mil-social-icons mil-center">
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <div class="col-sm-6 col-md-4 col-lg-3">
-
-                                <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/faces/5.jpg" alt="Team member">
-                                    <div class="mil-description">
-                                        <div class="mil-secrc-text">
-                                            <h5 class="mil-muted mil-mb-5"><a href="home-2.html">Tom Oldman</a></h5>
-                                            <p class="mil-link mil-light-soft mil-mb-10">Art Director</p>
-                                            <ul class="mil-social-icons mil-center">
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <div class="col-sm-6 col-md-4 col-lg-3">
-
-                                <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/faces/6.jpg" alt="Team member">
-                                    <div class="mil-description">
-                                        <div class="mil-secrc-text">
-                                            <h5 class="mil-muted mil-mb-5"><a href="home-2.html">Corey Trueman</a></h5>
-                                            <p class="mil-link mil-light-soft mil-mb-10">Art Director</p>
-                                            <ul class="mil-social-icons mil-center">
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <div class="col-sm-6 col-md-4 col-lg-3">
-
-                                <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/faces/7.jpg" alt="Team member">
-                                    <div class="mil-description">
-                                        <div class="mil-secrc-text">
-                                            <h5 class="mil-muted mil-mb-5"><a href="home-2.html">Justin Newman</a></h5>
-                                            <p class="mil-link mil-light-soft mil-mb-10">Art Director</p>
-                                            <ul class="mil-social-icons mil-center">
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <div class="col-sm-6 col-md-4 col-lg-3">
-
-                                <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/faces/8.jpg" alt="Team member">
-                                    <div class="mil-description">
-                                        <div class="mil-secrc-text">
-                                            <h5 class="mil-muted mil-mb-5"><a href="home-2.html">Spunkie</a></h5>
-                                            <p class="mil-link mil-light-soft mil-mb-10">Paw giver</p>
-                                            <ul class="mil-social-icons mil-center">
-                                                <li><a href="#." target="_blank" class="social-icon"><i class="fab fa-instagram"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"><i class="fab fa-tiktok"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
+                        </div>
+                        <div class="mil-image-frame mil-horizontal mil-up mil-mb-120">
+                            <img src="img/works/5/7.gif" alt="image">
+                            <a data-fancybox="gallery" data-no-swup href="img/works/5/7.gif" class="mil-zoom-btn">
+                                <img src="img/icons/zoom.svg" alt="zoom">
+                            </a>
+                        </div>
+                        <div class="mil-works-nav mil-up">
+                            <a href="project-4.php" class="mil-link mil-dark mil-arrow-place mil-icon-left">
+                                <span>Prev project</span>
+                            </a>
+                            <a href="portfolio-1.php" class="mil-link mil-dark">
+                                <span>All projects</span>
+                            </a>
+                            <a href="project-6.php" class="mil-link mil-dark mil-arrow-place">
+                                <span>Next project</span>
+                            </a>
                         </div>
                     </div>
                 </section>
-                <!-- team end -->
+                <!-- project end -->
 
                 <!-- call to action -->
                 <section class="mil-soft-bg">
@@ -405,7 +348,7 @@
                         </div>
                         <div class="mil-center">
                             <h2 class="mil-up mil-mb-60">Ready to bring your <span class="mil-thin">ideas to</span> life? <br> We're <span class="mil-thin">here to help</span></h2>
-                            <div class="mil-up"><a href="contact.html" class="mil-button mil-arrow-place"><span>Contact us</span></a></div>
+                            <div class="mil-up"><a href="contact.php" class="mil-button mil-arrow-place"><span>Contact us</span></a></div>
                         </div>
                     </div>
                 </section>
@@ -435,19 +378,19 @@
                                             <nav class="mil-footer-menu mil-mb-60">
                                                 <ul>
                                                     <li class="mil-up mil-active">
-                                                        <a href="home-1.html">Home</a>
+                                                        <a href="home-1.php">Home</a>
                                                     </li>
                                                     <li class="mil-up">
-                                                        <a href="portfolio-1.html">Portfolio</a>
+                                                        <a href="portfolio-1.php">Portfolio</a>
                                                     </li>
                                                     <li class="mil-up">
-                                                        <a href="services.html">Services</a>
+                                                        <a href="services.php">Services</a>
                                                     </li>
                                                     <li class="mil-up">
-                                                        <a href="contact.html">Contact</a>
+                                                        <a href="contact.php">Contact</a>
                                                     </li>
                                                     <li class="mil-up">
-                                                        <a href="blog.html">Blog</a>
+                                                        <a href="blog.php">Blog</a>
                                                     </li>
                                                 </ul>
                                             </nav>

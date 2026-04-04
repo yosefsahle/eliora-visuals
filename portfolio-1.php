@@ -67,7 +67,7 @@
         <div class="mil-menu-frame">
             <!-- frame clone -->
             <div class="mil-frame-top">
-                <a href="home-1.html" class="mil-logo">A.</a>
+                <a href="home-1.php" class="mil-logo">A.</a>
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -83,39 +83,39 @@
                                     <li class="mil-has-children">
                                         <a href="#.">Homepage</a>
                                         <ul>
-                                            <li><a href="home-1.html">Landing page</a></li>
-                                            <li><a href="home-2.html">Personal</a></li>
-                                            <li><a href="portfolio-3.html">Portfolio slider</a></li>
+                                            <li><a href="home-1.php">Landing page</a></li>
+                                            <li><a href="home-2.php">Personal</a></li>
+                                            <li><a href="portfolio-3.php">Portfolio slider</a></li>
                                         </ul>
                                     </li>
-                                    <li class="mil-has-children">
+                                    <li class="mil-has-children mil-active">
                                         <a href="#.">Portfolio</a>
                                         <ul>
-                                            <li><a href="portfolio-1.html">Grid type 1</a></li>
-                                            <li><a href="portfolio-2.html">Grid type 2</a></li>
-                                            <li><a href="portfolio-3.html">Slider</a></li>
+                                            <li><a href="portfolio-1.php">Grid type 1</a></li>
+                                            <li><a href="portfolio-2.php">Grid type 2</a></li>
+                                            <li><a href="portfolio-3.php">Slider</a></li>
                                         </ul>
                                     </li>
                                     <li class="mil-has-children">
                                         <a href="#.">Services</a>
                                         <ul>
-                                            <li><a href="services.html">Services List</a></li>
-                                            <li><a href="service.html">Single service</a></li>
+                                            <li><a href="services.php">Services List</a></li>
+                                            <li><a href="service.php">Single service</a></li>
                                         </ul>
                                     </li>
                                     <li class="mil-has-children">
                                         <a href="#.">Newsletter</a>
                                         <ul>
-                                            <li><a href="blog.html">Blog List</a></li>
-                                            <li><a href="publication.html">Publication</a></li>
+                                            <li><a href="blog.php">Blog List</a></li>
+                                            <li><a href="publication.php">Publication</a></li>
                                         </ul>
                                     </li>
-                                    <li class="mil-has-children mil-active">
+                                    <li class="mil-has-children">
                                         <a href="#.">Other pages</a>
                                         <ul>
-                                            <li><a href="team.html">Team</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                            <li><a href="404.html">404</a></li>
+                                            <li><a href="team.php">Team</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
+                                            <li><a href="404.php">404</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -137,12 +137,12 @@
                                             <h6 class="mil-muted mil-mb-30">Projects</h6>
 
                                             <ul class="mil-menu-list">
-                                                <li><a href="project-1.html" class="mil-light-soft">Interior design studio</a></li>
-                                                <li><a href="project-2.html" class="mil-light-soft">Home Security Camera</a></li>
-                                                <li><a href="project-3.html" class="mil-light-soft">Kemia Honest Skincare</a></li>
-                                                <li><a href="project-4.html" class="mil-light-soft">Cascade of Lava</a></li>
-                                                <li><a href="project-5.html" class="mil-light-soft">Air Pro by Molekule</a></li>
-                                                <li><a href="project-6.html" class="mil-light-soft">Tony's Chocolonely</a></li>
+                                                <li><a href="project-1.php" class="mil-light-soft">Interior design studio</a></li>
+                                                <li><a href="project-2.php" class="mil-light-soft">Home Security Camera</a></li>
+                                                <li><a href="project-3.php" class="mil-light-soft">Kemia Honest Skincare</a></li>
+                                                <li><a href="project-4.php" class="mil-light-soft">Cascade of Lava</a></li>
+                                                <li><a href="project-5.php" class="mil-light-soft">Air Pro by Molekule</a></li>
+                                                <li><a href="project-6.php" class="mil-light-soft">Tony's Chocolonely</a></li>
                                             </ul>
 
                                         </div>
@@ -194,7 +194,7 @@
         <!-- frame -->
         <div class="mil-frame">
             <div class="mil-frame-top">
-                <a href="home-1.html" class="mil-logo">A.</a>
+                <a href="home-1.php" class="mil-logo">A.</a>
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -222,140 +222,138 @@
                         </div>
                         <div class="container">
                             <ul class="mil-breadcrumbs mil-mb-60">
-                                <li><a href="home-1.html">Homepage</a></li>
-                                <li><a href="portfolio-1.html">Portfolio</a></li>
-                                <li><a href="project-1.html">Project</a></li>
+                                <li><a href="home-1.php">Homepage</a></li>
+                                <li><a href="portfolio-1.php">Portfolio</a></li>
                             </ul>
-                            <h1 class="mil-mb-60">Air Pro <span class="mil-thin">by Molekule</span></h1>
-                            <a href="#project" class="mil-link mil-dark mil-arrow-place mil-down-arrow">
-                                <span>Read more</span>
+                            <h1 class="mil-mb-60">Designing a <br> Better <span class="mil-thin">World Today</span></h1>
+                            <a href="#portfolio" class="mil-link mil-dark mil-arrow-place mil-down-arrow">
+                                <span>Our works</span>
                             </a>
                         </div>
                     </div>
                 </div>
                 <!-- banner end -->
 
-                <!-- project -->
-                <section class="mil-p-120-120">
-                    <div class="mil-image-frame mil-fw mil-up">
-                        <img src="img/works/6/1.jpg" alt="image">
-                        <a data-fancybox="gallery" data-no-swup href="img/works/6/1.jpg"  class="mil-zoom-btn">
-                            <img src="img/icons/zoom.svg" alt="zoom">
-                        </a>
+                <!-- portfolio -->
+                <section id="portfolio">
+                    <div class="container mil-portfolio mil-p-120-60">
+
+                        <div class="mil-lines-place"></div>
+                        <div class="mil-lines-place mil-lines-long"></div>
+
+                        <div class="row justify-content-between align-items-center">
+                            <div class="col-lg-5">
+
+                                <a href="project-1.php" class="mil-portfolio-item mil-more mil-mb-60">
+                                    <div class="mil-cover-frame mil-vert mil-up">
+                                        <div class="mil-cover">
+                                            <img src="img/works/1.jpg" alt="cover">
+                                        </div>
+                                    </div>
+                                    <div class="mil-descr">
+                                        <div class="mil-labels mil-up mil-mb-15">
+                                            <div class="mil-label mil-upper mil-accent">Branding</div>
+                                            <div class="mil-label mil-upper">may 24 2023</div>
+                                        </div>
+                                        <h4 class="mil-up">Interior design studio</h4>
+                                    </div>
+                                </a>
+
+                            </div>
+                            <div class="col-lg-6">
+
+                                <a href="project-2.php" class="mil-portfolio-item mil-more mil-parallax mil-mb-60" data-value-1="60" data-value-2="-60">
+                                    <div class="mil-cover-frame mil-hori mil-up">
+                                        <div class="mil-cover">
+                                            <img src="img/works/2.jpg" alt="cover">
+                                        </div>
+                                    </div>
+                                    <div class="mil-descr">
+                                        <div class="mil-labels mil-up mil-mb-15">
+                                            <div class="mil-label mil-upper mil-accent">Design</div>
+                                            <div class="mil-label mil-upper">may 24 2023</div>
+                                        </div>
+                                        <h4 class="mil-up">Home Security Camera</h4>
+                                    </div>
+                                </a>
+
+                            </div>
+                            <div class="col-lg-6">
+
+                                <a href="project-3.php" class="mil-portfolio-item mil-more mil-parallax mil-mb-60" data-value-1="60" data-value-2="-60">
+                                    <div class="mil-cover-frame mil-hori mil-up">
+                                        <div class="mil-cover">
+                                            <img src="img/works/3.jpg" alt="cover">
+                                        </div>
+                                    </div>
+                                    <div class="mil-descr">
+                                        <div class="mil-labels mil-up mil-mb-15">
+                                            <div class="mil-label mil-upper mil-accent">Design</div>
+                                            <div class="mil-label mil-upper">may 24 2023</div>
+                                        </div>
+                                        <h4 class="mil-up">Kemia Honest Skincare</h4>
+                                    </div>
+                                </a>
+
+                            </div>
+                            <div class="col-lg-5">
+
+                                <a href="project-4.php" class="mil-portfolio-item mil-more mil-mb-60">
+                                    <div class="mil-cover-frame mil-vert mil-up">
+                                        <div class="mil-cover">
+                                            <img src="img/works/4.jpg" alt="cover">
+                                        </div>
+                                    </div>
+                                    <div class="mil-descr">
+                                        <div class="mil-labels mil-up mil-mb-15">
+                                            <div class="mil-label mil-upper mil-accent">Photography</div>
+                                            <div class="mil-label mil-upper">may 24 2023</div>
+                                        </div>
+                                        <h4 class="mil-up">Cascade of Lava</h4>
+                                    </div>
+                                </a>
+
+                            </div>
+                            <div class="col-lg-5">
+
+                                <a href="project-5.php" class="mil-portfolio-item mil-more mil-mb-60">
+                                    <div class="mil-cover-frame mil-vert mil-up">
+                                        <div class="mil-cover">
+                                            <img src="img/works/5.jpg" alt="cover">
+                                        </div>
+                                    </div>
+                                    <div class="mil-descr">
+                                        <div class="mil-labels mil-up mil-mb-15">
+                                            <div class="mil-label mil-upper mil-accent">Design</div>
+                                            <div class="mil-label mil-upper">may 24 2023</div>
+                                        </div>
+                                        <h4 class="mil-up">Air Pro by Molekule</h4>
+                                    </div>
+                                </a>
+
+                            </div>
+                            <div class="col-lg-6">
+
+                                <a href="project-6.php" class="mil-portfolio-item mil-more mil-parallax mil-mb-60" data-value-1="60" data-value-2="-60">
+                                    <div class="mil-cover-frame mil-hori mil-up">
+                                        <div class="mil-cover">
+                                            <img src="img/works/6.jpg" alt="cover">
+                                        </div>
+                                    </div>
+                                    <div class="mil-descr">
+                                        <div class="mil-labels mil-up mil-mb-15">
+                                            <div class="mil-label mil-upper mil-accent">Design</div>
+                                            <div class="mil-label mil-upper">may 24 2023</div>
+                                        </div>
+                                        <h4 class="mil-up">Tony's Chocolonely</h4>
+                                    </div>
+                                </a>
+
+                            </div>
+                        </div>
                     </div>
-                    <div class="container" id="project">
-                        <div class="mil-info mil-up">
-                            <div>Client: &nbsp;<span class="mil-dark">Envato Market</span></div>
-                            <div>Date: &nbsp;<span class="mil-dark">April 2023</span></div>
-                            <div>Author: &nbsp;<span class="mil-dark">Paul Trueman</span></div>
-                        </div>
-                        <div class="mil-p-120-120">
-                            <div class="swiper-container mil-2-slider mil-up">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-
-                                        <div class="mil-image-frame mil-vertical mil-drag">
-                                            <img src="img/works/6/2.gif" alt="image">
-                                            <a data-fancybox="gallery" data-no-swup href="img/works/6/2.gif"  class="mil-zoom-btn">
-                                                <img src="img/icons/zoom.svg" alt="zoom">
-                                            </a>
-                                        </div>
-
-                                    </div>
-                                    <div class="swiper-slide">
-
-                                        <div class="mil-image-frame mil-vertical mil-drag">
-                                            <img src="img/works/6/3.jpg" alt="image">
-                                            <a data-fancybox="gallery" data-no-swup href="img/works/6/3.jpg"  class="mil-zoom-btn">
-                                                <img src="img/icons/zoom.svg" alt="zoom">
-                                            </a>
-                                        </div>
-
-                                    </div>
-                                    <div class="swiper-slide">
-
-                                        <div class="mil-image-frame mil-vertical mil-drag">
-                                            <img src="img/works/6/4.gif" alt="image">
-                                            <a data-fancybox="gallery" data-no-swup href="img/works/6/4.gif"  class="mil-zoom-btn">
-                                                <img src="img/icons/zoom.svg" alt="zoom">
-                                            </a>
-                                        </div>
-
-                                    </div>
-                                    <div class="swiper-slide">
-
-                                        <div class="mil-image-frame mil-vertical mil-drag">
-                                            <img src="img/works/6/5.jpg" alt="image">
-                                            <a data-fancybox="gallery" data-no-swup href="img/works/6/5.jpg"  class="mil-zoom-btn">
-                                                <img src="img/icons/zoom.svg" alt="zoom">
-                                            </a>
-                                        </div>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="row justify-content-between mil-p-120-0">
-                                <div class="col-lg-5">
-                                    <h3 class="mil-up mil-mb-60">Simplicity, elegance, innovation!</h3>
-                                </div>
-                                <div class="col-lg-6">
-                                    <p class="mil-up mil-mb-30">A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
-
-                                    <p class="mil-up">Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-container mil-2-slider mil-up mil-mb-120">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-
-                                    <div class="mil-image-frame mil-horizontal mil-drag">
-                                        <img src="img/works/6/6.jpg" alt="image">
-                                        <a data-fancybox="gallery" data-no-swup href="img/works/6/6.jpg"  class="mil-zoom-btn">
-                                            <img src="img/icons/zoom.svg" alt="zoom">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide">
-
-                                    <div class="mil-image-frame mil-horizontal mil-drag">
-                                        <img src="img/works/6/7.jpg" alt="image">
-                                        <a data-fancybox="gallery" data-no-swup href="img/works/6/7.jpg"  class="mil-zoom-btn">
-                                            <img src="img/icons/zoom.svg" alt="zoom">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide">
-
-                                    <div class="mil-image-frame mil-horizontal mil-drag">
-                                        <img src="img/works/6/8.jpg" alt="image">
-                                        <a data-fancybox="gallery" data-no-swup href="img/works/6/8.jpg"  class="mil-zoom-btn">
-                                            <img src="img/icons/zoom.svg" alt="zoom">
-                                        </a>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="mil-works-nav mil-up">
-                            <a href="project-5.html" class="mil-link mil-dark mil-arrow-place mil-icon-left">
-                                <span>Prev project</span>
-                            </a>
-                            <a href="portfolio-1.html" class="mil-link mil-dark">
-                                <span>All projects</span>
-                            </a>
-                            <a href="#." class="mil-link mil-dark mil-arrow-place mil-disabled">
-                                <span>Next project</span>
-                            </a>
-                        </div>
-                    </div>
-
                 </section>
-                <!-- project end -->
+                <!-- portfolio end -->
 
                 <!-- call to action -->
                 <section class="mil-soft-bg">
@@ -368,110 +366,15 @@
                             </div>
                         </div>
                         <div class="mil-center">
-                            <h2 class="mil-up mil-mb-60">Got a project <span class="mil-thin">in mind?</span> <br>Let's make it a reality <span class="mil-thin">together</span></h2>
-                            <div class="mil-up"><a href="contact.html" class="mil-button mil-arrow-place"><span>Contact us</span></a></div>
+                            <h2 class="mil-up mil-mb-60">Ready to bring your <span class="mil-thin">ideas to</span> life? <br> We're <span class="mil-thin">here to help</span></h2>
+                            <div class="mil-up"><a href="contact.php" class="mil-button mil-arrow-place"><span>Contact us</span></a></div>
                         </div>
                     </div>
                 </section>
                 <!-- call to action end -->
 
                 <!-- footer -->
-                <footer class="mil-dark-bg">
-                    <div class="mi-invert-fix">
-                        <div class="container mil-p-120-60">
-                            <div class="row justify-content-between">
-                                <div class="col-md-4 col-lg-4 mil-mb-60">
-
-                                    <div class="mil-muted mil-logo mil-up mil-mb-30">Ashley.</div>
-
-                                    <p class="mil-light-soft mil-up mil-mb-30">Subscribe our newsletter:</p>
-
-                                    <form class="mil-subscribe-form mil-up">
-                                        <input type="text" placeholder="Enter our email">
-                                        <button type="submit" class="mil-button mil-icon-button-sm mil-arrow-place"></button>
-                                    </form>
-
-                                </div>
-                                <div class="col-md-7 col-lg-6">
-                                    <div class="row justify-content-end">
-                                        <div class="col-md-6 col-lg-7">
-
-                                            <nav class="mil-footer-menu mil-mb-60">
-                                                <ul>
-                                                    <li class="mil-up mil-active">
-                                                        <a href="home-1.html">Home</a>
-                                                    </li>
-                                                    <li class="mil-up">
-                                                        <a href="portfolio-1.html">Portfolio</a>
-                                                    </li>
-                                                    <li class="mil-up">
-                                                        <a href="services.html">Services</a>
-                                                    </li>
-                                                    <li class="mil-up">
-                                                        <a href="contact.html">Contact</a>
-                                                    </li>
-                                                    <li class="mil-up">
-                                                        <a href="blog.html">Blog</a>
-                                                    </li>
-                                                </ul>
-                                            </nav>
-
-                                        </div>
-                                        <div class="col-md-6 col-lg-5">
-
-                                            <ul class="mil-menu-list mil-up mil-mb-60">
-                                                <li><a href="#." class="mil-light-soft">Privacy Policy</a></li>
-                                                <li><a href="#." class="mil-light-soft">Terms and conditions</a></li>
-                                                <li><a href="#." class="mil-light-soft">Cookie Policy</a></li>
-                                                <li><a href="#." class="mil-light-soft">Careers</a></li>
-                                            </ul>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="row justify-content-between flex-sm-row-reverse">
-                                <div class="col-md-7 col-lg-6">
-
-                                    <div class="row justify-content-between">
-
-                                        <div class="col-md-6 col-lg-5 mil-mb-60">
-
-                                            <h6 class="mil-muted mil-up mil-mb-30">Canada</h6>
-
-                                            <p class="mil-light-soft mil-up">71 South Los Carneros Road, California <span class="mil-no-wrap">+51 174 705 812</span></p>
-
-                                        </div>
-                                        <div class="col-md-6 col-lg-5 mil-mb-60">
-
-                                            <h6 class="mil-muted mil-up mil-mb-30">Germany</h6>
-
-                                            <p class="mil-light-soft mil-up">Leehove 40, 2678 MC De Lier, Netherlands <span class="mil-no-wrap">+31 174 705 811</span></p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <div class="col-md-4 col-lg-6 mil-mb-60">
-
-                                    <div class="mil-vert-between">
-                                        <div class="mil-mb-30">
-                                            <ul class="mil-social-icons mil-up">
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="far fa-circle"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="far fa-circle"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="far fa-circle"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="far fa-circle"></i></a></li>
-                                            </ul>
-                                        </div>
-                                        <p class="mil-light-soft mil-up">© Copyright 2023 - Mil. All Rights Reserved.</p>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </footer>
+                <?php include 'footer.php'; ?>
                 <!-- footer end -->
 
                 <!-- hidden elements -->

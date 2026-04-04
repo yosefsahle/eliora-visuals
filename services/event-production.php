@@ -8,17 +8,18 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <!-- bootstrap grid css -->
-    <link rel="stylesheet" href="css/plugins/bootstrap-grid.css">
+    <link rel="stylesheet" href="../css/plugins/bootstrap-grid.css">
     <!-- font awesome css -->
-    <link rel="stylesheet" href="css/plugins/font-awesome.min.css">
+    <link rel="stylesheet" href="../css/plugins/font-awesome.min.css">
     <!-- swiper css -->
-    <link rel="stylesheet" href="css/plugins/swiper.min.css">
+    <link rel="stylesheet" href="../css/plugins/swiper.min.css">
     <!-- fancybox css -->
-    <link rel="stylesheet" href="css/plugins/fancybox.min.css">
+    <link rel="stylesheet" href="../css/plugins/fancybox.min.css">
     <!-- ashley scss -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- page name -->
-    <title>Ashley</title>
+    <title>Eliora - Event Production</title>
 
 </head>
 
@@ -67,7 +68,7 @@
         <div class="mil-menu-frame">
             <!-- frame clone -->
             <div class="mil-frame-top">
-                <a href="index.html" class="mil-logo">Eliora.</a>
+                <a href="../index.php" class="mil-logo">Eliora.</a>
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -81,50 +82,50 @@
                             <nav class="mil-main-menu" id="swupMenu">
                                 <ul>
                                     <li class="mil-has-children">
-                                        <a href="index.html">Homepage</a>
+                                        <a href="../index.php">Homepage</a>
                                         <!-- <ul>
-                                            <li><a href="index.html">Landing page</a></li>
-                                            <li><a href="home-2.html">Personal</a></li>
-                                            <li><a href="portfolio-3.html">Portfolio slider</a></li>
+                                            <li><a href="index.php">Landing page</a></li>
+                                            <li><a href="home-2.php">Personal</a></li>
+                                            <li><a href="portfolio-3.php">Portfolio slider</a></li>
                                         </ul> -->
                                     </li>
                                     <li class="mil-has-children">
-                                        <a href="portfolio.html">Portfolio</a>
+                                        <a href="../portfolio.php">Portfolio</a>
                                         <!-- <ul>
-                                            <li><a href="portfolio-1.html">Grid type 1</a></li>
-                                            <li><a href="portfolio-2.html">Grid type 2</a></li>
-                                            <li><a href="portfolio-3.html">Slider</a></li>
+                                            <li><a href="portfolio-1.php">Grid type 1</a></li>
+                                            <li><a href="portfolio-2.php">Grid type 2</a></li>
+                                            <li><a href="portfolio-3.php">Slider</a></li>
                                         </ul> -->
                                     </li>
                                     <li class="mil-has-children mil-active">
-                                        <a href="services.html">Services</a>
+                                        <a href="../services.php">Services</a>
                                         <!-- <ul>
-                                            <li><a href="services.html">Services List</a></li>
-                                            <li><a href="service.html">Single service</a></li>
+                                            <li><a href="services.php">Services List</a></li>
+                                            <li><a href="service.php">Single service</a></li>
                                         </ul> -->
                                     </li>
                                     <li class="mil-has-children">
-                                        <a href="pricing.html">Pricing</a>
+                                        <a href="../pricing.php">Pricing</a>
                                     </li>
                                     <li class="mil-has-children">
-                                        <a href="team.html">Team</a>
+                                        <a href="../team.php">Team</a>
                                     </li>
                                     <li class="mil-has-children">
-                                        <a href="contact.html">Contact</a>
+                                        <a href="../contact.php">Contact</a>
                                     </li>
                                     <!-- <li class="mil-has-children">
                                         <a href="#.">Newsletter</a>
                                         <ul>
-                                            <li><a href="blog.html">Blog List</a></li>
-                                            <li><a href="publication.html">Publication</a></li>
+                                            <li><a href="blog.php">Blog List</a></li>
+                                            <li><a href="publication.php">Publication</a></li>
                                         </ul>
                                     </li> -->
                                     <!-- <li class="mil-has-children">
                                         <a href="#.">Other pages</a>
                                         <ul>
-                                            <li><a href="team.html">Team</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                            <li><a href="404.html">404</a></li>
+                                            <li><a href="team.php">Team</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
+                                            <li><a href="404.php">404</a></li>
                                         </ul>
                                     </li> -->
                                 </ul>
@@ -146,12 +147,12 @@
                                             <h6 class="mil-muted mil-mb-30">Projects</h6>
 
                                             <ul class="mil-menu-list">
-                                                <li><a href="project-1.html" class="mil-light-soft">Interior design studio</a></li>
-                                                <li><a href="project-2.html" class="mil-light-soft">Home Security Camera</a></li>
-                                                <li><a href="project-3.html" class="mil-light-soft">Kemia Honest Skincare</a></li>
-                                                <li><a href="project-4.html" class="mil-light-soft">Cascade of Lava</a></li>
-                                                <li><a href="project-5.html" class="mil-light-soft">Air Pro by Molekule</a></li>
-                                                <li><a href="project-6.html" class="mil-light-soft">Tony's Chocolonely</a></li>
+                                                <li><a href="project-1.php" class="mil-light-soft">Interior design studio</a></li>
+                                                <li><a href="project-2.php" class="mil-light-soft">Home Security Camera</a></li>
+                                                <li><a href="project-3.php" class="mil-light-soft">Kemia Honest Skincare</a></li>
+                                                <li><a href="project-4.php" class="mil-light-soft">Cascade of Lava</a></li>
+                                                <li><a href="project-5.php" class="mil-light-soft">Air Pro by Molekule</a></li>
+                                                <li><a href="project-6.php" class="mil-light-soft">Tony's Chocolonely</a></li>
                                             </ul>
 
                                         </div>
@@ -203,7 +204,7 @@
         <!-- frame -->
         <div class="mil-frame">
             <div class="mil-frame-top">
-                <a href="index.html" class="mil-logo">Eliora.</a>
+                <a href="../index.php" class="mil-logo">Eliora.</a>
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -231,11 +232,11 @@
                     <div class="mil-banner-content mil-up">
                         <div class="container">
                             <ul class="mil-breadcrumbs mil-mb-60">
-                                <li><a href="home-1.html">Homepage</a></li>
-                                <li><a href="services.html">Services</a></li>
-                                <li><a href="service.html">Service</a></li>
+                                <li><a href="../index.php">Homepage</a></li>
+                                <li><a href="../services.php">Services</a></li>
+                                <li><a href="#top">Event Production</a></li>
                             </ul>
-                            <h1 class="mil-mb-60">Website <span class="mil-thin">Design</span><br> and <span class="mil-thin">Development</span></h1>
+                            <h1 class="mil-mb-60"><b class="mil-accent">Event Production</b></h1>
                             <a href="#service" class="mil-link mil-dark mil-arrow-place mil-down-arrow">
                                 <span>About service</span>
                             </a>
@@ -250,43 +251,45 @@
                         <div class="row justify-content-between">
                             <div class="col-lg-4 mil-relative mil-mb-90">
 
-                                <h4 class="mil-up mil-mb-30">Your <span class="mil-thin">Approach</span> <br>and <span class="mil-thin">Work Specifics</span></h4>
-                                <p class="mil-up mil-mb-30">At our agency, we have a unique approach to web design and development. We believe in creating websites that not only look great but also perform well in terms of user experience, functionality, and search engine optimization.</p>
-                                <div class="mil-up">
-                                    <a href="portfolio-3.html" class="mil-link mil-dark mil-arrow-place">
+                                <!-- <h4 class="mil-up mil-mb-30">Your <span class="mil-thin">Approach</span> <br>and <span class="mil-thin">Work Specifics</span></h4> -->
+                                <p class="mil-up mil-mb-30">We provide professional event coverage and production services for corporate events, concerts, conferences, private celebrations, launches, and more. Our goal is to document the energy, atmosphere, and key moments of every event with excellence.</p>
+                                <!-- <div class="mil-up">
+                                    <a href="portfolio-3.php" class="mil-link mil-dark mil-arrow-place">
                                         <span>View works</span>
                                     </a>
-                                </div>
+                                </div> -->
 
                             </div>
                             <div class="col-lg-6">
-
+                                <!-- <h4 class="mil-up mil-mb-30 mil-accent">What’s included:</h4> -->
                                 <div class="mil-accordion-group mil-up">
                                     <div class="mil-accordion-menu">
-
-                                        <p class="mil-accordion-head">UX Audits</p>
+                                        <h4 class="mil-up mil-mb-10 mil-accent">What’s included:</h4>
+                                        <!-- <p class="mil-accordion-head">Social media strategy development</p> -->
 
                                         <div class="mil-symbol mil-h3">
-                                            <div class="mil-plus">+</div>
-                                            <div class="mil-minus">-</div>
+                                            <div class="mil-plus"><i class="fa-solid fa-angle-down"></i></div>
+                                            <div class="mil-minus"><i class="fa-solid fa-angle-up"></i></div>
                                         </div>
 
                                     </div>
                                     <div class="mil-accordion-content">
-                                        <p class="mil-mb-30">A UX audit is a service that evaluates the user experience (UX) of a website. It involves analyzing the website's design, functionality, and content to identify areas of improvement that can enhance the user's overall experience.</p>
-
-                                        <p class="mil-mb-30">During a UX audit, a team of UX experts will conduct a thorough review of the website and provide a comprehensive report that outlines specific recommendations for improving the website's usability, accessibility, and overall user experience.</p>
-
-                                        <p class="mil-mb-30">The audit may cover various aspects of the website, such as navigation, layout, visual design, content structure, and mobile responsiveness. The goal is to identify any pain points or obstacles that users may encounter while browsing the website and provide actionable recommendations to improve their experience.</p>
-
-                                        <p class="mil-mb-30">In summary, a UX audit can help website owners identify areas of improvement that can enhance their website's user experience and increase user engagement and satisfaction.</p>
+                                        <p class="mil-mb-10"><i class="fa-solid fa-angles-right mil-accent"></i> Event production planning consultation</p>
+                                        <p class="mil-mb-10"><i class="fa-solid fa-angles-right mil-accent"></i> Multi-camera event coverage</p>
+                                        <p class="mil-mb-10"><i class="fa-solid fa-angles-right mil-accent"></i> Photography and videography</p>
+                                        <p class="mil-mb-10"><i class="fa-solid fa-angles-right mil-accent"></i> Interviews and audience reactions</p>
+                                        <p class="mil-mb-10"><i class="fa-solid fa-angles-right mil-accent"></i> Stage, speaker, and highlight coverage</p>
+                                        <p class="mil-mb-10"><i class="fa-solid fa-angles-right mil-accent"></i> Recap / after-movie editing</p>
+                                        <p class="mil-mb-10"><i class="fa-solid fa-angles-right mil-accent"></i> Fast delivery for selected content</p>
+                                        <p class="mil-mb-10"><i class="fa-solid fa-angles-right mil-accent"></i> Branded event visuals for promotion</p>
                                     </div>
+                                    
                                 </div>
 
-                                <div class="mil-accordion-group mil-up">
+                                <!-- <div class="mil-accordion-group mil-up">
                                     <div class="mil-accordion-menu">
 
-                                        <p class="mil-accordion-head">Design thinking</p>
+                                        <p class="mil-accordion-head">Monthly content planning</p>
 
                                         <div class="mil-symbol mil-h3">
                                             <div class="mil-plus">+</div>
@@ -298,55 +301,9 @@
                                         <p class="mil-mb-30">Design thinking is a problem-solving approach that emphasizes empathy, creativity, and collaboration. It involves understanding the needs and perspectives of users, identifying and defining the problem, generating multiple possible solutions, prototyping and testing those solutions, and iterating based on feedback.</p>
                                         <p class="mil-mb-30">Design thinking encourages a human-centered approach to innovation and is often used in fields such as product design, user experience (UX) design, and business strategy to create user-centric and innovative solutions. It promotes a mindset that embraces experimentation, iteration, and continuous learning throughout the design process.</p>
                                     </div>
-                                </div>
+                                </div> -->
 
-                                <div class="mil-accordion-group mil-up">
-                                    <div class="mil-accordion-menu">
-
-                                        <p class="mil-accordion-head">wireframing</p>
-
-                                        <div class="mil-symbol mil-h3">
-                                            <div class="mil-plus">+</div>
-                                            <div class="mil-minus">-</div>
-                                        </div>
-
-                                    </div>
-                                    <div class="mil-accordion-content">
-                                        <p class="mil-mb-30">Wireframing is a vital step in web design where a visual representation of a website's structure is created. It focuses on layout and user experience, using basic shapes and lines to outline elements like headers, menus, and content sections. Wireframes establish the website's architecture and functionality, facilitating communication between designers, developers, and clients. They serve as a blueprint for user-friendly websites, setting the foundation for design and development.</p>
-                                    </div>
-                                </div>
-
-                                <div class="mil-accordion-group mil-up">
-                                    <div class="mil-accordion-menu">
-
-                                        <p class="mil-accordion-head">Aesthetics</p>
-
-                                        <div class="mil-symbol mil-h3">
-                                            <div class="mil-plus">+</div>
-                                            <div class="mil-minus">-</div>
-                                        </div>
-
-                                    </div>
-                                    <div class="mil-accordion-content">
-                                        <p class="mil-mb-30">Aesthetics in web design focus on the visual appeal of a website, incorporating elements like colors, typography, images, and layout. It aims to create an engaging and visually pleasing user experience that reflects the brand identity and purpose of the website. A well-designed aesthetic balances visual appeal with functionality, leaving a lasting impression on users.</p>
-                                    </div>
-                                </div>
-
-                                <div class="mil-accordion-group mil-up">
-                                    <div class="mil-accordion-menu">
-
-                                        <p class="mil-accordion-head">Methodologies</p>
-
-                                        <div class="mil-symbol mil-h3">
-                                            <div class="mil-plus">+</div>
-                                            <div class="mil-minus">-</div>
-                                        </div>
-
-                                    </div>
-                                    <div class="mil-accordion-content">
-                                        <p class="mil-mb-30">Libero quam alias tempora facilis necessitatibus quis officiis voluptatem architecto harum exercitationem quidem illum eligendi. Veniam non vitae, nemo dolor tempora, necessitatibus enim sapiente quam voluptas architecto minima omnis sequi aperiam aliquam vel quo reprehenderit, tempore tenetur. Architecto dolorem assumenda voluptas, odio nemo vero illo praesentium pariatur, ut perspiciatis, est itaque minus ratione vitae laboriosam molestiae.</p>
-                                    </div>
-                                </div>
+                                
 
                             </div>
                         </div>
@@ -355,7 +312,7 @@
                 <!-- service end -->
 
                 <!-- prices -->
-                <section class="mil-dark-bg">
+                <!-- <section class="mil-dark-bg">
                     <div class="mi-invert-fix">
                         <div class="container mil-p-120-120">
                             <div class="mil-center">
@@ -363,7 +320,7 @@
                                 <p class="mil-light-soft mil-up mil-mb-120">At our agency, we have a unique approach to web design and development. <br>We believe in creating in terms of user experience, functionality.</p>
                             </div>
 
-                            <a href="contact.html" class="mil-price-card mil-choose mil-accent-cursor mil-up">
+                            <a href="contact.php" class="mil-price-card mil-choose mil-accent-cursor mil-up">
                                 <div class="row align-items-center">
                                     <div class="col-lg-2">
                                         <div class="mil-price-number mil-mb-30"><span class="mil-muted mil-thin">$</span><span class="mil-accent">19</span></div>
@@ -381,7 +338,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="contact.html" class="mil-price-card mil-choose mil-accent-cursor mil-up">
+                            <a href="contact.php" class="mil-price-card mil-choose mil-accent-cursor mil-up">
                                 <div class="row align-items-center">
                                     <div class="col-lg-2">
                                         <div class="mil-price-number mil-mb-30"><span class="mil-muted mil-thin">$</span><span class="mil-accent">29</span></div>
@@ -399,7 +356,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="contact.html" class="mil-price-card mil-choose mil-accent-cursor mil-up">
+                            <a href="contact.php" class="mil-price-card mil-choose mil-accent-cursor mil-up">
                                 <div class="row align-items-center">
                                     <div class="col-lg-2">
                                         <div class="mil-price-number mil-mb-30"><span class="mil-muted mil-thin">$</span><span class="mil-accent">49</span></div>
@@ -417,7 +374,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="contact.html" class="mil-price-card mil-choose mil-accent-cursor mil-up mil-mb-60">
+                            <a href="contact.php" class="mil-price-card mil-choose mil-accent-cursor mil-up mil-mb-60">
                                 <div class="row align-items-center">
                                     <div class="col-lg-2">
                                         <div class="mil-price-number mil-mb-30"><span class="mil-muted mil-thin">$</span><span class="mil-accent">199</span></div>
@@ -437,18 +394,18 @@
                             </a>
 
                             <div class="mil-center">
-                                <a href="contact.html" class="mil-button  mil-arrow-place">
+                                <a href="contact.php" class="mil-button  mil-arrow-place">
                                     <span>individual solution</span>
                                 </a>
                             </div>
 
                         </div>
                     </div>
-                </section>
+                </section> -->
                 <!-- prices end -->
 
                 <!-- other services -->
-                <section>
+                <!-- <section>
                     <div class="container mil-p-120-90">
                         <div class="row align-items-center mil-mb-30">
                             <div class="col-lg-6 mil-mb-30">
@@ -456,7 +413,7 @@
                             </div>
                             <div class="col-lg-6 mil-mb-30">
                                 <div class="mil-adaptive-right mil-up">
-                                    <a href="services.html" class="mil-link mil-dark mil-arrow-place">
+                                    <a href="services.php" class="mil-link mil-dark mil-arrow-place">
                                         <span>View all</span>
                                     </a>
                                 </div>
@@ -465,7 +422,7 @@
                         <div class="row">
                             <div class="col-lg-4">
 
-                                <a href="service.html" class="mil-service-card-lg mil-other-card mil-more mil-mb-30">
+                                <a href="service.php" class="mil-service-card-lg mil-other-card mil-more mil-mb-30">
                                     <h4 class="mil-up mil-mb-30">Branding and <br>Identity Design</h4>
                                     <p class="mil-descr mil-up mil-mb-30">Our creative agency is a team of professionals focused on helping your brand grow.</p>
                                     <ul class="mil-service-list mil-dark mil-mb-30">
@@ -482,7 +439,7 @@
                             </div>
                             <div class="col-lg-4">
 
-                                <a href="service.html" class="mil-service-card-lg mil-other-card mil-more mil-mb-30">
+                                <a href="service.php" class="mil-service-card-lg mil-other-card mil-more mil-mb-30">
                                     <h4 class="mil-up mil-mb-30">Advertising <br>and Marketing</h4>
                                     <p class="mil-descr mil-up mil-mb-30">Our creative agency is a team of professionals focused on helping your brand grow.</p>
                                     <ul class="mil-service-list mil-dark mil-mb-30">
@@ -499,7 +456,7 @@
                             </div>
                             <div class="col-lg-4">
 
-                                <a href="service.html" class="mil-service-card-lg mil-other-card mil-more mil-mb-30">
+                                <a href="service.php" class="mil-service-card-lg mil-other-card mil-more mil-mb-30">
                                     <h4 class="mil-up mil-mb-30">Creative <br>Consulting</h4>
                                     <p class="mil-descr mil-up mil-mb-30">Our creative agency is a team of professionals focused on helping your brand grow.</p>
                                     <ul class="mil-service-list mil-dark mil-mb-30">
@@ -516,7 +473,7 @@
                             </div>
                         </div>
                     </div>
-                </section>
+                </section> -->
                 <!-- other services end -->
 
                 <!-- footer -->
@@ -526,7 +483,7 @@
                             <div class="row justify-content-between">
                                 <div class="col-md-4 col-lg-4 mil-mb-60">
 
-                                    <div class="mil-muted mil-logo mil-up mil-mb-30">Ashley.</div>
+                                    <div class="mil-muted mil-logo mil-up mil-mb-30">Eliora.</div>
 
                                     <p class="mil-light-soft mil-up mil-mb-30">Subscribe our newsletter:</p>
 
@@ -543,19 +500,19 @@
                                             <nav class="mil-footer-menu mil-mb-60">
                                                 <ul>
                                                     <li class="mil-up mil-active">
-                                                        <a href="home-1.html">Home</a>
+                                                        <a href="home-1.php">Home</a>
                                                     </li>
                                                     <li class="mil-up">
-                                                        <a href="portfolio-1.html">Portfolio</a>
+                                                        <a href="portfolio-1.php">Portfolio</a>
                                                     </li>
                                                     <li class="mil-up">
-                                                        <a href="services.html">Services</a>
+                                                        <a href="services.php">Services</a>
                                                     </li>
                                                     <li class="mil-up">
-                                                        <a href="contact.html">Contact</a>
+                                                        <a href="contact.php">Contact</a>
                                                     </li>
                                                     <li class="mil-up">
-                                                        <a href="blog.html">Blog</a>
+                                                        <a href="blog.php">Blog</a>
                                                     </li>
                                                 </ul>
                                             </nav>
@@ -731,23 +688,23 @@
     <!-- wrapper end -->
 
     <!-- jQuery js -->
-    <script src="js/plugins/jquery.min.js"></script>
+    <script src="../js/plugins/jquery.min.js"></script>
     <!-- swup js -->
-    <script src="js/plugins/swup.min.js"></script>
+    <script src="../js/plugins/swup.min.js"></script>
     <!-- swiper js -->
-    <script src="js/plugins/swiper.min.js"></script>
+    <script src="../js/plugins/swiper.min.js"></script>
     <!-- fancybox js -->
-    <script src="js/plugins/fancybox.min.js"></script>
+    <script src="../js/plugins/fancybox.min.js"></script>
     <!-- gsap js -->
-    <script src="js/plugins/gsap.min.js"></script>
+    <script src="../js/plugins/gsap.min.js"></script>
     <!-- scroll smoother -->
-    <script src="js/plugins/smooth-scroll.js"></script>
+    <script src="../js/plugins/smooth-scroll.js"></script>
     <!-- scroll trigger js -->
-    <script src="js/plugins/ScrollTrigger.min.js"></script>
+    <script src="../js/plugins/ScrollTrigger.min.js"></script>
     <!-- scroll to js -->
-    <script src="js/plugins/ScrollTo.min.js"></script>
+    <script src="../js/plugins/ScrollTo.min.js"></script>
     <!-- ashley js -->
-    <script src="js/main.js"></script>
+    <script src="../js/main.js"></script>
 
 </body>
 

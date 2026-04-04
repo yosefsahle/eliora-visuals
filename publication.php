@@ -67,7 +67,7 @@
         <div class="mil-menu-frame">
             <!-- frame clone -->
             <div class="mil-frame-top">
-                <a href="home-1.html" class="mil-logo">A.</a>
+                <a href="home-1.php" class="mil-logo">A.</a>
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -83,39 +83,39 @@
                                     <li class="mil-has-children">
                                         <a href="#.">Homepage</a>
                                         <ul>
-                                            <li><a href="home-1.html">Landing page</a></li>
-                                            <li><a href="home-2.html">Personal</a></li>
-                                            <li><a href="portfolio-3.html">Portfolio slider</a></li>
+                                            <li><a href="home-1.php">Landing page</a></li>
+                                            <li><a href="home-2.php">Personal</a></li>
+                                            <li><a href="portfolio-3.php">Portfolio slider</a></li>
                                         </ul>
                                     </li>
                                     <li class="mil-has-children">
                                         <a href="#.">Portfolio</a>
                                         <ul>
-                                            <li><a href="portfolio-1.html">Grid type 1</a></li>
-                                            <li><a href="portfolio-2.html">Grid type 2</a></li>
-                                            <li><a href="portfolio-3.html">Slider</a></li>
+                                            <li><a href="portfolio-1.php">Grid type 1</a></li>
+                                            <li><a href="portfolio-2.php">Grid type 2</a></li>
+                                            <li><a href="portfolio-3.php">Slider</a></li>
                                         </ul>
                                     </li>
                                     <li class="mil-has-children">
                                         <a href="#.">Services</a>
                                         <ul>
-                                            <li><a href="services.html">Services List</a></li>
-                                            <li><a href="service.html">Single service</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="mil-has-children">
-                                        <a href="#.">Newsletter</a>
-                                        <ul>
-                                            <li><a href="blog.html">Blog List</a></li>
-                                            <li><a href="publication.html">Publication</a></li>
+                                            <li><a href="services.php">Services List</a></li>
+                                            <li><a href="service.php">Single service</a></li>
                                         </ul>
                                     </li>
                                     <li class="mil-has-children mil-active">
+                                        <a href="#.">Newsletter</a>
+                                        <ul>
+                                            <li><a href="blog.php">Blog List</a></li>
+                                            <li><a href="publication.php">Publication</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="mil-has-children">
                                         <a href="#.">Other pages</a>
                                         <ul>
-                                            <li><a href="team.html">Team</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                            <li><a href="404.html">404</a></li>
+                                            <li><a href="team.php">Team</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
+                                            <li><a href="404.php">404</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -137,12 +137,12 @@
                                             <h6 class="mil-muted mil-mb-30">Projects</h6>
 
                                             <ul class="mil-menu-list">
-                                                <li><a href="project-1.html" class="mil-light-soft">Interior design studio</a></li>
-                                                <li><a href="project-2.html" class="mil-light-soft">Home Security Camera</a></li>
-                                                <li><a href="project-3.html" class="mil-light-soft">Kemia Honest Skincare</a></li>
-                                                <li><a href="project-4.html" class="mil-light-soft">Cascade of Lava</a></li>
-                                                <li><a href="project-5.html" class="mil-light-soft">Air Pro by Molekule</a></li>
-                                                <li><a href="project-6.html" class="mil-light-soft">Tony's Chocolonely</a></li>
+                                                <li><a href="project-1.php" class="mil-light-soft">Interior design studio</a></li>
+                                                <li><a href="project-2.php" class="mil-light-soft">Home Security Camera</a></li>
+                                                <li><a href="project-3.php" class="mil-light-soft">Kemia Honest Skincare</a></li>
+                                                <li><a href="project-4.php" class="mil-light-soft">Cascade of Lava</a></li>
+                                                <li><a href="project-5.php" class="mil-light-soft">Air Pro by Molekule</a></li>
+                                                <li><a href="project-6.php" class="mil-light-soft">Tony's Chocolonely</a></li>
                                             </ul>
 
                                         </div>
@@ -194,7 +194,7 @@
         <!-- frame -->
         <div class="mil-frame">
             <div class="mil-frame-top">
-                <a href="home-1.html" class="mil-logo">A.</a>
+                <a href="home-1.php" class="mil-logo">A.</a>
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -216,150 +216,146 @@
 
                 <!-- banner -->
                 <div class="mil-inner-banner">
-                    <div class="mil-banner-content mil-up">
-                        <div class="mil-animation-frame">
-                            <div class="mil-animation mil-position-4 mil-dark mil-scale" data-value-1="6" data-value-2="1.4"></div>
-                        </div>
+                    <div class="mil-banner-content mil-center mil-up">
                         <div class="container">
-                            <ul class="mil-breadcrumbs mil-mb-60">
-                                <li><a href="home-1.html">Homepage</a></li>
-                                <li><a href="portfolio-1.html">Portfolio</a></li>
-                                <li><a href="project-1.html">Project</a></li>
+                            <ul class="mil-breadcrumbs mil-center mil-mb-60">
+                                <li><a href="home-1.php">Homepage</a></li>
+                                <li><a href="blog.php">Blog</a></li>
+                                <li><a href="blog.php">Publication</a></li>
                             </ul>
-                            <h1 class="mil-mb-60">Interior Design <span class="mil-thin">Studio</span></h1>
-                            <a href="#project" class="mil-link mil-dark mil-arrow-place mil-down-arrow">
-                                <span>Read more</span>
-                            </a>
+                            <h2>How to Become a <span class="mil-thin">Graphic</span><br> Designer in <span class="mil-thin">10 Simple Steps</span></h2>
                         </div>
                     </div>
                 </div>
                 <!-- banner end -->
 
-                <!-- project -->
-                <section class="mil-p-120-0">
-                    <div class="container mil-p-0-120" id="project">
-                        <div class="mil-image-frame mil-horizontal mil-up">
-                            <img src="img/works/1/1.jpg" alt="image">
-                            <a data-fancybox="gallery" data-no-swup href="img/works/1/1.jpg" class="mil-zoom-btn">
-                                <img src="img/icons/zoom.svg" alt="zoom">
-                            </a>
-                        </div>
-                        <div class="mil-info mil-up">
-                            <div>Client: &nbsp;;<span class="mil-dark">Envato Market</span></div>
-                            <div>Date: &nbsp;;<span class="mil-dark">April 2023</span></div>
-                            <div>Author: &nbsp;;<span class="mil-dark">Paul Trueman</span></div>
-                        </div>
-                        <div class="mil-p-120-0">
+                <!-- publication -->
+                <section id="blog">
+                    <div class="container mil-p-120-90">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-12">
 
-                            <div class="row">
-                                <div class="col-lg-6">
-
-                                    <div class="mil-image-frame mil-square mil-up mil-mb-30">
-                                        <img src="img/works/1/2.jpg" alt="image">
-                                        <a data-fancybox="gallery" data-no-swup href="img/works/1/2.jpg" class="mil-zoom-btn">
-                                            <img src="img/icons/zoom.svg" alt="zoom">
-                                        </a>
-                                    </div>
-
+                                <div class="mil-image-frame mil-horizontal mil-up">
+                                    <img src="img/blog/3.jpg" alt="Publication cover" class="mil-scale" data-value-1=".90" data-value-2="1.15">
                                 </div>
-                                <div class="col-lg-6">
-
-                                    <div class="mil-image-frame mil-square mil-up mil-mb-30">
-                                        <img src="img/works/1/3.jpg" alt="image">
-                                        <a data-fancybox="gallery" data-no-swup href="img/works/1/3.jpg" class="mil-zoom-btn">
-                                            <img src="img/icons/zoom.svg" alt="zoom">
-                                        </a>
-                                    </div>
-
+                                <div class="mil-info mil-up mil-mb-90">
+                                    <div>Category: &nbsp;<span class="mil-dark">Technology</span></div>
+                                    <div>Date: &nbsp;<span class="mil-dark">April 2023</span></div>
+                                    <div>Author: &nbsp;<span class="mil-dark">Paul Trueman</span></div>
                                 </div>
-                                <div class="col-lg-6">
 
-                                    <div class="mil-image-frame mil-square mil-up mil-mb-30">
-                                        <img src="img/works/1/4.jpg" alt="image">
-                                        <a data-fancybox="gallery" data-no-swup href="img/works/1/4.jpg" class="mil-zoom-btn">
-                                            <img src="img/icons/zoom.svg" alt="zoom">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="col-lg-6">
-
-                                    <div class="mil-image-frame mil-square mil-up mil-mb-30">
-                                        <img src="img/works/1/5.jpg" alt="image">
-                                        <a data-fancybox="gallery" data-no-swup href="img/works/1/5.jpg" class="mil-zoom-btn">
-                                            <img src="img/icons/zoom.svg" alt="zoom">
-                                        </a>
-                                    </div>
-
-                                </div>
                             </div>
-                            <div class="row justify-content-between mil-p-90-120">
-                                <div class="col-lg-5">
-                                    <h3 class="mil-up mil-mb-60">Simplicity, elegance, innovation!</h3>
-                                </div>
-                                <div class="col-lg-6">
-                                    <p class="mil-up mil-mb-30">A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
+                            <div class="col-lg-8">
 
-                                    <p class="mil-up">Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
-                                </div>
-                            </div>
-                            <div class="row mil-p-0-90">
-                                <div class="col-lg-6">
+                                <p class="mil-text-xl mil-dark mil-up mil-mb-60">Are you passionate about design and interested in pursuing a career as a graphic designer? Graphic design is a dynamic field that combines creativity, technical skills, and a keen eye for aesthetics. Whether you're a beginner or someone looking to enhance their skills, this article will guide you through 10 simple steps to become a graphic designer.</p>
 
-                                    <div class="mil-image-frame mil-vertical mil-up mil-mb-30">
-                                        <img src="img/works/1/6.jpg" alt="image">
-                                        <a data-fancybox="gallery" data-no-swup href="img/works/1/6.jpg" class="mil-zoom-btn">
-                                            <img src="img/icons/zoom.svg" alt="zoom">
-                                        </a>
+                                <blockquote class="mil-up mil-mb-60">"Creativity is intelligence having fun." - Albert Einstein</blockquote>
+
+                                <h5 class="mil-up mil-mb-30">Understand the Field</h5>
+                                <p class="mil-up mil-mb-60">Start by gaining a comprehensive understanding of what graphic design entails. Research the different types of graphic design, such as branding, web design, print design, and illustration. Explore the work of successful graphic designers and analyze their portfolios to learn about various design styles and techniques.</p>
+
+                                <h5 class="mil-up mil-mb-30">Get a Design Education</h5>
+                                <p class="mil-up mil-mb-60">While formal education is not always a requirement, it can provide you with a solid foundation and enhance your credibility as a graphic designer. Consider pursuing a degree or diploma in graphic design or a related field. Look for reputable design schools or online courses that offer comprehensive programs to learn both theory and practical skills.</p>
+
+                                <h5 class="mil-up mil-mb-30">Build Your Portfolio</h5>
+                                <p class="mil-up mil-mb-60">Your portfolio is your calling card as a graphic designer. Compile a collection of your best design projects to showcase your abilities and style. Include a variety of work, such as logos, brochures, websites, or illustrations, to demonstrate your versatility. Constantly update your portfolio as you complete new projects or improve existing ones.</p>
+
+                                <h5 class="mil-up mil-mb-30">Gain Practical Experience</h5>
+                                <p class="mil-up mil-mb-60">To become a successful graphic designer, practical experience is crucial. Seek internships, freelance opportunities, or entry-level positions to gain hands-on experience in the field. This will allow you to apply your skills in real-world scenarios, understand client requirements, work with deadlines, and collaborate with others in a professional environment.</p>
+
+                                <div class="row">
+                                    <div class="col-lg-6">
+
+                                        <div class="mil-image-frame mil-horizontal mil-up mil-mb-30">
+                                            <img src="img/blog/4.jpg" alt="Publication cover">
+                                        </div>
+
                                     </div>
+                                    <div class="col-lg-6">
 
-                                </div>
-                                <div class="col-lg-6">
+                                        <div class="mil-image-frame mil-horizontal mil-up mil-mb-60">
+                                            <img src="img/blog/7.jpg" alt="Publication cover">
+                                        </div>
 
-                                    <div class="mil-image-frame mil-vertical mil-up mil-mb-30">
-                                        <img src="img/works/1/7.jpg" alt="image">
-                                        <a data-fancybox="gallery" data-no-swup href="img/works/1/7.jpg" class="mil-zoom-btn">
-                                            <img src="img/icons/zoom.svg" alt="zoom">
-                                        </a>
                                     </div>
-
                                 </div>
+
+                                <p class="mil-up mil-mb-60">Remember that creativity is at the core of graphic design. Embrace your creativity, experiment with different ideas, and think outside the box to create unique and impactful designs. Don't be afraid to take risks and push the boundaries of traditional design. Steve Jobs once said:</p>
+
+                                <blockquote class="mil-up mil-mb-60">
+                                    "Design is not just what it looks like and feels like. Design is how it works." So go ahead, unleash your creativity, and embark on your path to becoming a graphic designer!
+                                </blockquote>
+
+                                <p class="mil-up mil-mb-30">In addition to the aforementioned steps, other important aspects of becoming a graphic designer include networking with industry professionals, staying updated on design trends and technologies, and continuously learning and improving your skills.</p>
+
+                                <p class="mil-up mil-mb-30">Becoming a graphic designer is an exciting journey that requires dedication, hard work, and a genuine passion for design. By following these 10 simple steps, you'll be well on your way to establishing yourself as a skilled graphic designer and opening doors to a rewarding and fulfilling career.</p>
+
                             </div>
-
-                        </div>
-
-                        <div class="mil-works-nav mil-up">
-                            <a href="#." class="mil-link mil-dark mil-arrow-place mil-icon-left mil-disabled">
-                                <span>Prev project</span>
-                            </a>
-                            <a href="portfolio-1.html" class="mil-link mil-dark">
-                                <span>All projects</span>
-                            </a>
-                            <a href="project-2.html" class="mil-link mil-dark mil-arrow-place">
-                                <span>Next project</span>
-                            </a>
                         </div>
                     </div>
                 </section>
-                <!-- project end -->
+                <!-- publication end -->
 
-                <!-- call to action -->
+                <!-- similar -->
                 <section class="mil-soft-bg">
-                    <div class="container mil-p-120-120">
+                    <div class="container mil-p-120-60">
+                        <div class="row align-items-center mil-mb-30">
+                            <div class="col-lg-6 mil-mb-30">
+                                <h3 class="mil-up">Similar Publications:</h3>
+                            </div>
+                            <div class="col-lg-6 mil-mb-30">
+                                <div class="mil-adaptive-right mil-up">
+                                    <a href="blog-inner.php" class="mil-link mil-dark mil-arrow-place">
+                                        <span>View all</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
                         <div class="row">
-                            <div class="col-lg-10">
+                            <div class="col-lg-6">
 
-                                <span class="mil-suptitle mil-suptitle-right mil-suptitle-dark mil-up">Looking to make your mark? We'll help you turn <br> your project into a success story.</span>
+                                <a href="publication.php" class="mil-blog-card mil-mb-60">
+                                    <div class="mil-cover-frame mil-up">
+                                        <img src="img/blog/8.jpg" alt="cover">
+                                    </div>
+                                    <div class="mil-post-descr">
+                                        <div class="mil-labels mil-up mil-mb-30">
+                                            <div class="mil-label mil-upper mil-accent">TECHNOLOGY</div>
+                                            <div class="mil-label mil-upper">may 24 2023</div>
+                                        </div>
+                                        <h4 class="mil-up mil-mb-30">How to Become a Graphic Designer in 10 Simple Steps</h4>
+                                        <p class="mil-post-text mil-up mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos optio, beatae, eos necessitatibus nisi. Nam cupiditate consectetur nostrum qui! Repellat natus nulla, nisi aliquid, asperiores impedit tempora sequi est reprehenderit cumque explicabo, dicta. Rem nihil ullam totam ea voluptas quibusdam repudiandae id ut at iure! Totam, a!</p>
+                                        <div class="mil-link mil-dark mil-arrow-place mil-up">
+                                            <span>Read more</span>
+                                        </div>
+                                    </div>
+                                </a>
+
+                            </div>
+                            <div class="col-lg-6">
+
+                                <a href="publication.php" class="mil-blog-card mil-mb-60">
+                                    <div class="mil-cover-frame mil-up">
+                                        <img src="img/blog/1.jpg" alt="cover">
+                                    </div>
+                                    <div class="mil-post-descr">
+                                        <div class="mil-labels mil-up mil-mb-30">
+                                            <div class="mil-label mil-upper mil-accent">TECHNOLOGY</div>
+                                            <div class="mil-label mil-upper">may 24 2023</div>
+                                        </div>
+                                        <h4 class="mil-up mil-mb-30">16 Best Graphic Design Online and Offline Courses</h4>
+                                        <p class="mil-post-text mil-up mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos optio, beatae, eos necessitatibus nisi. Nam cupiditate consectetur nostrum qui! Repellat natus nulla, nisi aliquid, asperiores impedit tempora sequi est reprehenderit cumque explicabo, dicta. Rem nihil ullam totam ea voluptas quibusdam repudiandae id ut at iure! Totam, a!</p>
+                                        <div class="mil-link mil-dark mil-arrow-place mil-up">
+                                            <span>Read more</span>
+                                        </div>
+                                    </div>
+                                </a>
 
                             </div>
                         </div>
-                        <div class="mil-center">
-                            <h2 class="mil-up mil-mb-60">Ready to bring your <span class="mil-thin">ideas to</span> life? <br> We're <span class="mil-thin">here to help</span></h2>
-                            <div class="mil-up"><a href="contact.html" class="mil-button mil-arrow-place"><span>Contact us</span></a></div>
-                        </div>
                     </div>
                 </section>
-                <!-- call to action end -->
+                <!-- similar end -->
 
                 <!-- footer -->
                 <footer class="mil-dark-bg">
@@ -385,19 +381,19 @@
                                             <nav class="mil-footer-menu mil-mb-60">
                                                 <ul>
                                                     <li class="mil-up mil-active">
-                                                        <a href="home-1.html">Home</a>
+                                                        <a href="home-1.php">Home</a>
                                                     </li>
                                                     <li class="mil-up">
-                                                        <a href="portfolio-1.html">Portfolio</a>
+                                                        <a href="portfolio-1.php">Portfolio</a>
                                                     </li>
                                                     <li class="mil-up">
-                                                        <a href="services.html">Services</a>
+                                                        <a href="services.php">Services</a>
                                                     </li>
                                                     <li class="mil-up">
-                                                        <a href="contact.html">Contact</a>
+                                                        <a href="contact.php">Contact</a>
                                                     </li>
                                                     <li class="mil-up">
-                                                        <a href="blog.html">Blog</a>
+                                                        <a href="blog.php">Blog</a>
                                                     </li>
                                                 </ul>
                                             </nav>
