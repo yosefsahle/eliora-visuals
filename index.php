@@ -293,7 +293,7 @@
 
                                     <div class="mil-about-quote">
                                         <div class="mil-avatar mil-up">
-                                            <img src="img/faces/customers/2.jpg" alt="Founder">
+                                            <img src="img/team/kalebTariku.jpg" alt="Founder">
                                         </div>
                                         <h6 class="mil-quote mil-up">Passionately Creating <span class="mil-thin">Design Wonders:</span> Unleashing <span class="mil-thin">Boundless Creativity</span></h6>
                                     </div>
@@ -335,7 +335,7 @@
 
                                 <div class="mil-complex-text justify-content-center mil-up mil-mb-15">
 
-                                    <span class="mil-text-image"><img src="img/photo/2.jpg" alt="team"></span>
+                                    <span class="mil-text-image"><img src="img/sample.jpg" alt="team"></span>
                                     <h2 class="mil-h1 mil-muted mil-center">Unique <span class="mil-thin">Ideas</span></h2>
 
                                 </div>
@@ -418,11 +418,11 @@
                                         <div class="col-sm-6">
 
                                             <div class="mil-team-card mil-up mil-mb-30">
-                                                <img src="img/faces/1.jpg" alt="Team member">
+                                                <img src="img/team/kalebTariku.jpg" alt="Team member">
                                                 <div class="mil-description">
                                                     <div class="mil-secrc-text">
-                                                        <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Anna Oldman</a></h5>
-                                                        <p class="mil-link mil-light-soft mil-mb-10">Art Director</p>
+                                                        <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Kaleb Tariku</a></h5>
+                                                        <p class="mil-link mil-light-soft mil-mb-10">CEO, Creative Director & Cinematographer</p>
                                                         <ul class="mil-social-icons mil-center">
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
@@ -434,11 +434,11 @@
                                             </div>
 
                                             <div class="mil-team-card mil-up mil-mb-30">
-                                                <img src="img/faces/3.jpg" alt="Team member">
+                                                <img src="img/team/serawdinkMelaku.jpg" alt="Team member">
                                                 <div class="mil-description">
                                                     <div class="mil-secrc-text">
-                                                        <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Oscar Freeman</a></h5>
-                                                        <p class="mil-link mil-light-soft mil-mb-10">Frontend Dev</p>
+                                                        <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Serawdink Melaku</a></h5>
+                                                        <p class="mil-link mil-light-soft mil-mb-10">Art Director & Costume Designer</p>
                                                         <ul class="mil-social-icons mil-center">
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
@@ -455,11 +455,11 @@
                                             <p class="mil-mobile-hidden mil-text-sm mil-mb-30" style="height: 30px;"><span class="mil-accent">*</span> The founders of our agency</p>
 
                                             <div class="mil-team-card mil-up mil-mb-30">
-                                                <img src="img/faces/2.jpg" alt="Team member">
+                                                <img src="img/team/barkotBirhanu.jpeg" alt="Team member">
                                                 <div class="mil-description">
                                                     <div class="mil-secrc-text">
-                                                        <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Emma Newman</a></h5>
-                                                        <p class="mil-link mil-light-soft mil-mb-10">Founder</p>
+                                                        <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Barkot Birhanu</a></h5>
+                                                        <p class="mil-link mil-light-soft mil-mb-10">Creative content Strategist & Script Writer</p>
                                                         <ul class="mil-social-icons mil-center">
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
@@ -471,11 +471,11 @@
                                             </div>
 
                                             <div class="mil-team-card mil-up mil-mb-30">
-                                                <img src="img/faces/4.jpg" alt="Team member">
+                                                <img src="img/team/miheretabSolomon.jpg" alt="Team member">
                                                 <div class="mil-description">
                                                     <div class="mil-secrc-text">
-                                                        <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Lisa Trueman</a></h5>
-                                                        <p class="mil-link mil-light-soft mil-mb-10">UI/UX Designer</p>
+                                                        <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Miheretab Solomon </a></h5>
+                                                        <p class="mil-link mil-light-soft mil-mb-10">Video Editor & Photographer</p>
                                                         <ul class="mil-social-icons mil-center">
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>

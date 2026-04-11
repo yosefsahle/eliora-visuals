@@ -18,7 +18,7 @@
     <!-- ashley scss -->
     <link rel="stylesheet" href="css/style.css">
     <!-- page name -->
-    <title>Ashley</title>
+    <title>Eliora - Teams</title>
 
 </head>
 
@@ -43,14 +43,14 @@
         <div class="mil-preloader">
             <div class="mil-preloader-animation">
                 <div class="mil-pos-abs mil-animation-1">
-                    <p class="mil-h3 mil-muted mil-thin">Pioneering</p>
-                    <p class="mil-h3 mil-muted">Creative</p>
-                    <p class="mil-h3 mil-muted mil-thin">Excellence</p>
+                    <p class="mil-h3 mil-muted mil-thin">We</p>
+                    <p class="mil-h3 mil-muted mil-thin">Speak</p>
+                    <p class="mil-h3 mil-muted mil-thin">in Light</p>
                 </div>
                 <div class="mil-pos-abs mil-animation-2">
                     <div class="mil-reveal-frame">
                         <p class="mil-reveal-box"></p>
-                        <p class="mil-h3 mil-muted mil-thin">ashley.com</p>
+                        <p class="mil-h3 mil-muted">ELIORA VISUALS.</p>
                     </div>
                 </div>
             </div>
@@ -67,7 +67,7 @@
         <div class="mil-menu-frame">
             <!-- frame clone -->
             <div class="mil-frame-top">
-                <a href="home-1.php" class="mil-logo">A.</a>
+                <a href="index.php" class="mil-logo">Eliora.</a>
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -81,43 +81,52 @@
                             <nav class="mil-main-menu" id="swupMenu">
                                 <ul>
                                     <li class="mil-has-children">
-                                        <a href="#.">Homepage</a>
-                                        <ul>
-                                            <li><a href="home-1.php">Landing page</a></li>
+                                        <a href="index.php">Homepage</a>
+                                        <!-- <ul>
+                                            <li><a href="index.php">Landing page</a></li>
                                             <li><a href="home-2.php">Personal</a></li>
                                             <li><a href="portfolio-3.php">Portfolio slider</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <li class="mil-has-children">
-                                        <a href="#.">Portfolio</a>
-                                        <ul>
+                                        <a href="portfolio.php">Portfolio</a>
+                                        <!-- <ul>
                                             <li><a href="portfolio-1.php">Grid type 1</a></li>
                                             <li><a href="portfolio-2.php">Grid type 2</a></li>
                                             <li><a href="portfolio-3.php">Slider</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <li class="mil-has-children">
-                                        <a href="#.">Services</a>
-                                        <ul>
+                                        <a href="services.php">Services</a>
+                                        <!-- <ul>
                                             <li><a href="services.php">Services List</a></li>
                                             <li><a href="service.php">Single service</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <li class="mil-has-children">
+                                        <a href="pricing.php">Pricing</a>
+                                    </li>
+                                    <li class="mil-has-children mil-active">
+                                        <a href="team.php">Team</a>
+                                    </li>
+                                    <li class="mil-has-children">
+                                        <a href="contact.php">Contact</a>
+                                    </li>
+                                    <!-- <li class="mil-has-children">
                                         <a href="#.">Newsletter</a>
                                         <ul>
                                             <li><a href="blog.php">Blog List</a></li>
                                             <li><a href="publication.php">Publication</a></li>
                                         </ul>
-                                    </li>
-                                    <li class="mil-has-children mil-active">
+                                    </li> -->
+                                    <!-- <li class="mil-has-children">
                                         <a href="#.">Other pages</a>
                                         <ul>
                                             <li><a href="team.php">Team</a></li>
                                             <li><a href="contact.php">Contact</a></li>
                                             <li><a href="404.php">404</a></li>
                                         </ul>
-                                    </li>
+                                    </li> -->
                                 </ul>
                             </nav>
 
@@ -194,7 +203,9 @@
         <!-- frame -->
         <div class="mil-frame">
             <div class="mil-frame-top">
-                <a href="home-1.php" class="mil-logo">A.</a>
+                
+                    <a href="index.php" class="mil-logo col-md-1 col-lg-1">Eliora.</a>
+                
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -240,8 +251,8 @@
                         <div class="row">
                             <div class="col-sm-6 col-md-4 col-lg-3">
 
-                                <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/faces/1.jpg" alt="Team member">
+                                <div class="mil-team-card mil-up mil-mb-30" style="border: 3px solid orange;">
+                                    <img src="img/team/kalebTariku.jpg" alt="Team member">
                                     <div class="mil-description">
                                         <div class="mil-secrc-text">
                                             <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Anna Oldman</a></h5>
@@ -260,7 +271,7 @@
                             <div class="col-sm-6 col-md-4 col-lg-3">
 
                                 <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/faces/3.jpg" alt="Team member">
+                                    <img src="img/team/barkotBirhanu.jpeg" alt="Team member">
                                     <div class="mil-description">
                                         <div class="mil-secrc-text">
                                             <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Oscar Freeman</a></h5>
@@ -279,7 +290,7 @@
                             <div class="col-sm-6 col-md-4 col-lg-3">
 
                                 <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/faces/2.jpg" alt="Team member">
+                                    <img src="img/team/serawdinkMelaku.jpg" alt="Team member">
                                     <div class="mil-description">
                                         <div class="mil-secrc-text">
                                             <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Emma Newman</a></h5>
@@ -298,7 +309,7 @@
                             <div class="col-sm-6 col-md-4 col-lg-3">
 
                                 <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/faces/4.jpg" alt="Team member">
+                                    <img src="img/team/miheretabSolomon.jpg" alt="Team member">
                                     <div class="mil-description">
                                         <div class="mil-secrc-text">
                                             <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Lisa Trueman</a></h5>
@@ -317,7 +328,7 @@
                             <div class="col-sm-6 col-md-4 col-lg-3">
 
                                 <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/faces/5.jpg" alt="Team member">
+                                    <img src="img/team/abenezerAlemayehu.jpg" alt="Team member">
                                     <div class="mil-description">
                                         <div class="mil-secrc-text">
                                             <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Tom Oldman</a></h5>
@@ -336,7 +347,7 @@
                             <div class="col-sm-6 col-md-4 col-lg-3">
 
                                 <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/faces/6.jpg" alt="Team member">
+                                    <img src="img/team/gedionTariku.jpg" alt="Team member">
                                     <div class="mil-description">
                                         <div class="mil-secrc-text">
                                             <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Corey Trueman</a></h5>
