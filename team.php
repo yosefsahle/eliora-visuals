@@ -18,7 +18,7 @@
     <!-- ashley scss -->
     <link rel="stylesheet" href="css/style.css">
     <!-- page name -->
-    <title>Eliora - Teams</title>
+    <title>Eliora · Teams</title>
 
 </head>
 

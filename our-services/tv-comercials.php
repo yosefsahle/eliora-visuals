@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- page name -->
-    <title>Eliora - TV Commercials</title>
+    <title>Eliora · TV Commercials</title>
 
 </head>
 
@@ -68,7 +68,7 @@
         <div class="mil-menu-frame">
             <!-- frame clone -->
             <div class="mil-frame-top">
-                <a href="../index.php" class="mil-logo">Eliora.</a>
+                <a href="../../index.php" class="mil-logo">Eliora.</a>
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -82,7 +82,7 @@
                             <nav class="mil-main-menu" id="swupMenu">
                                 <ul>
                                     <li class="mil-has-children">
-                                        <a href="../index.php">Homepage</a>
+                                        <a href="../../index.php">Homepage</a>
                                         <!-- <ul>
                                             <li><a href="index.php">Landing page</a></li>
                                             <li><a href="home-2.php">Personal</a></li>

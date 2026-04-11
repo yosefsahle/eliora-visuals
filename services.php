@@ -18,7 +18,7 @@
     <!-- ashley scss -->
     <link rel="stylesheet" href="css/style.css">
     <!-- page name -->
-    <title>Eliora ·  Services</title>
+    <title>Eliora · Services</title>
 
 </head>
 
