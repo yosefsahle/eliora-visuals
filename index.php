@@ -350,7 +350,7 @@
                             <div class="row mil-services-grid m-0">
                                 <div class="col-md-6 col-lg-3 mil-services-grid-item p-0">
 
-                                    <a href="service.php" class="mil-service-card-sm mil-up">
+                                    <a href="our-services/social-media-managment.php" class="mil-service-card-sm mil-up">
                                         <h5 class="mil-muted mil-mb-30">Social Media <br>Management</h5>
                                         <p class="mil-light-soft mil-mb-30">Our creative agency is a team of professionals focused on helping your brand grow.</p>
                                         <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
@@ -359,7 +359,7 @@
                                 </div>
                                 <div class="col-md-6 col-lg-3 mil-services-grid-item p-0">
 
-                                    <a href="service.php" class="mil-service-card-sm mil-up">
+                                    <a href="our-services/weeding-production.php" class="mil-service-card-sm mil-up">
                                         <h5 class="mil-muted mil-mb-30">Wedding Service</h5>
                                         <p class="mil-light-soft mil-mb-30">We create timeless wedding films and photography that capture the beauty, emotion, and story of your special day. From intimate moments to grand celebrations, our team focuses on delivering cinematic visuals that allow you to relive every memory for years to come.</p>
                                         <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
@@ -368,7 +368,7 @@
                                 </div>
                                 <div class="col-md-6 col-lg-3 mil-services-grid-item p-0">
 
-                                    <a href="service.php" class="mil-service-card-sm mil-up">
+                                    <a href="our-services/music-clip-production.php" class="mil-service-card-sm mil-up">
                                         <h5 class="mil-muted mil-mb-30">Music Clip <br>Production</h5>
                                         <p class="mil-light-soft mil-mb-30">We produce high-quality music videos that bring your sound, image, and artistic vision to life. Whether you want a simple performance-based video or a fully creative concept, we help artists stand out with visually powerful content.</p>
                                         <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
@@ -377,7 +377,7 @@
                                 </div>
                                 <div class="col-md-6 col-lg-3 mil-services-grid-item p-0">
 
-                                    <a href="service.php" class="mil-service-card-sm mil-up">
+                                    <a href="our-services/event-production.php" class="mil-service-card-sm mil-up">
                                         <h5 class="mil-muted mil-mb-30">Event Production</h5>
                                         <p class="mil-light-soft mil-mb-30">We provide professional event coverage and production services for corporate events, concerts, conferences, private celebrations, launches, and more. Our goal is to document the energy, atmosphere, and key moments of every event with excellence.</p>
                                         <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
