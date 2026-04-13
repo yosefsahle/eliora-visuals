@@ -273,6 +273,25 @@
                             <div class="col-sm-6 col-md-4 col-lg-3">
 
                                 <div class="mil-team-card mil-up mil-mb-30">
+                                    <img src="img/team/sifenChichi.jpg" alt="Team member">
+                                    <div class="mil-description">
+                                        <div class="mil-secrc-text">
+                                            <h5 class="mil-muted"><a href="#">Sifen Chichi</a></h5>
+                                            <p class="mil-link mil-light-soft" style="font-size:10px;">Production Manager & Assistant Director</p>
+                                            <!-- <ul class="mil-social-icons mil-center">
+                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
+                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
+                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
+                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
+                                            </ul> -->
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="col-sm-6 col-md-4 col-lg-3">
+
+                                <div class="mil-team-card mil-up mil-mb-30">
                                     <img src="img/team/barkotBirhanu.jpeg" alt="Team member">
                                     <div class="mil-description">
                                         <div class="mil-secrc-text">
@@ -365,25 +384,7 @@
                                 </div>
 
                             </div>
-                            <div class="col-sm-6 col-md-4 col-lg-3">
-
-                                <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/team/sifenChichi.jpg" alt="Team member">
-                                    <div class="mil-description">
-                                        <div class="mil-secrc-text">
-                                            <h5 class="mil-muted"><a href="#">Sifen Chichi</a></h5>
-                                            <p class="mil-link mil-light-soft" style="font-size:10px;">Production Manager & Assistant Director</p>
-                                            <!-- <ul class="mil-social-icons mil-center">
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                            </ul> -->
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
+                            
                             <!-- <div class="col-sm-6 col-md-4 col-lg-3">
 
                                 <div class="mil-team-card mil-up mil-mb-30">
