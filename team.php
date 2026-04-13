@@ -255,14 +255,16 @@
                                     <img src="img/team/kalebTariku.jpg" alt="Team member">
                                     <div class="mil-description">
                                         <div class="mil-secrc-text">
-                                            <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Anna Oldman</a></h5>
-                                            <p class="mil-link mil-light-soft mil-mb-10">Art Director</p>
-                                            <ul class="mil-social-icons mil-center">
+                                            <h5 class="mil-muted"><a href="#">Kaleb Tariku</a></h5>
+                                            <p class="mil-link mil-light-soft" >CEO</p>
+                                            <span class="mil-link mil-light-soft mil-mb-1 " style="font-size: 8px;">Creative Director & Cinematographer</span>
+                                            
+                                            <!-- <ul class="mil-social-icons mil-center">
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                            </ul>
+                                            </ul> -->
                                         </div>
                                     </div>
                                 </div>
@@ -274,14 +276,14 @@
                                     <img src="img/team/barkotBirhanu.jpeg" alt="Team member">
                                     <div class="mil-description">
                                         <div class="mil-secrc-text">
-                                            <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Oscar Freeman</a></h5>
-                                            <p class="mil-link mil-light-soft mil-mb-10">Frontend Dev</p>
-                                            <ul class="mil-social-icons mil-center">
+                                            <h5 class="mil-muted"><a href="#">Barkot Birhanu</a></h5>
+                                            <p class="mil-link mil-light-soft" style="font-size:10px;">Creative content Strategist & Script Writer</p>
+                                            <!-- <ul class="mil-social-icons mil-center">
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                            </ul>
+                                            </ul> -->
                                         </div>
                                     </div>
                                 </div>
@@ -293,14 +295,14 @@
                                     <img src="img/team/serawdinkMelaku.jpg" alt="Team member">
                                     <div class="mil-description">
                                         <div class="mil-secrc-text">
-                                            <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Emma Newman</a></h5>
-                                            <p class="mil-link mil-light-soft mil-mb-10">Founder</p>
-                                            <ul class="mil-social-icons mil-center">
+                                            <h5 class="mil-muted"><a href="#">Serawdink Melaku</a></h5>
+                                            <p class="mil-link mil-light-soft" style="font-size:10px;">Art Director & Costume Designer</p>
+                                            <!-- <ul class="mil-social-icons mil-center">
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                            </ul>
+                                            </ul> -->
                                         </div>
                                     </div>
                                 </div>
@@ -312,14 +314,14 @@
                                     <img src="img/team/miheretabSolomon.jpg" alt="Team member">
                                     <div class="mil-description">
                                         <div class="mil-secrc-text">
-                                            <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Lisa Trueman</a></h5>
-                                            <p class="mil-link mil-light-soft mil-mb-10">UI/UX Designer</p>
-                                            <ul class="mil-social-icons mil-center">
+                                            <h5 class="mil-muted "><a href="#">Miheretab Solomon</a></h5>
+                                            <p class="mil-link mil-light-soft" style="font-size:10px;">Video Editor & Photographer</p>
+                                            <!-- <ul class="mil-social-icons mil-center">
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                            </ul>
+                                            </ul> -->
                                         </div>
                                     </div>
                                 </div>
@@ -331,14 +333,14 @@
                                     <img src="img/team/abenezerAlemayehu.jpg" alt="Team member">
                                     <div class="mil-description">
                                         <div class="mil-secrc-text">
-                                            <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Tom Oldman</a></h5>
-                                            <p class="mil-link mil-light-soft mil-mb-10">Art Director</p>
-                                            <ul class="mil-social-icons mil-center">
+                                            <h5 class="mil-muted "><a href="#">Abenezer Alemayehu</a></h5>
+                                            <p class="mil-link mil-light-soft" style="font-size:10px;">Content Writer & Graphics Designer</p>
+                                            <!-- <ul class="mil-social-icons mil-center">
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                            </ul>
+                                            </ul> -->
                                         </div>
                                     </div>
                                 </div>
@@ -350,14 +352,14 @@
                                     <img src="img/team/gedionTariku.jpg" alt="Team member">
                                     <div class="mil-description">
                                         <div class="mil-secrc-text">
-                                            <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Corey Trueman</a></h5>
-                                            <p class="mil-link mil-light-soft mil-mb-10">Art Director</p>
-                                            <ul class="mil-social-icons mil-center">
+                                            <h5 class="mil-muted"><a href="#">Gedion Tariku</a></h5>
+                                            <p class="mil-link mil-light-soft" style="font-size:10px;">Assistance Cinematographer & Bts</p>
+                                            <!-- <ul class="mil-social-icons mil-center">
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                            </ul>
+                                            </ul> -->
                                         </div>
                                     </div>
                                 </div>
@@ -366,23 +368,23 @@
                             <div class="col-sm-6 col-md-4 col-lg-3">
 
                                 <div class="mil-team-card mil-up mil-mb-30">
-                                    <img src="img/faces/7.jpg" alt="Team member">
+                                    <img src="img/team/sifenChichi.jpg" alt="Team member">
                                     <div class="mil-description">
                                         <div class="mil-secrc-text">
-                                            <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Justin Newman</a></h5>
-                                            <p class="mil-link mil-light-soft mil-mb-10">Art Director</p>
-                                            <ul class="mil-social-icons mil-center">
+                                            <h5 class="mil-muted"><a href="#">Sifen Chichi</a></h5>
+                                            <p class="mil-link mil-light-soft" style="font-size:10px;">Production Manager & Assistant Director</p>
+                                            <!-- <ul class="mil-social-icons mil-center">
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
                                                 <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                            </ul>
+                                            </ul> -->
                                         </div>
                                     </div>
                                 </div>
 
                             </div>
-                            <div class="col-sm-6 col-md-4 col-lg-3">
+                            <!-- <div class="col-sm-6 col-md-4 col-lg-3">
 
                                 <div class="mil-team-card mil-up mil-mb-30">
                                     <img src="img/faces/8.jpg" alt="Team member">
@@ -398,7 +400,7 @@
                                     </div>
                                 </div>
 
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </section>

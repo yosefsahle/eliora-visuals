@@ -287,9 +287,9 @@
 
                                 <div class="mil-mb-90">
                                     <h2 class="mil-up mil-mb-60">Discover <br>Our <span class="mil-thin">Studio</span></h2>
-                                    <p class="mil-up mil-mb-30">At our design studio, we are a collective of talented individuals ignited by our unwavering passion for transforming ideas into reality. With a harmonious blend of diverse backgrounds and a vast array of skill sets, we join forces to create compelling solutions for our esteemed clients.</p>
+                                    <p class="mil-up mil-mb-30">At our video production company, we are a collective of passionate creatives driven by the art of visual storytelling. From concept development to final cut, we transform ideas into powerful cinematic experiences. With a dynamic mix of talent across directing, cinematography, editing, and post-production, we bring together diverse skills to craft content that resonates with audiences.</p>
 
-                                    <p class="mil-up mil-mb-60">Collaboration is at the heart of what we do. Our team thrives on the synergy that arises when unique perspectives converge, fostering an environment of boundless creativity. By harnessing our collective expertise, we produce extraordinary results that consistently surpass expectations.</p>
+                                    <p class="mil-up mil-mb-60">Collaboration is at the core of every production we undertake. We thrive on the energy that comes from combining unique creative perspectives, allowing each project to evolve into something truly compelling. By leveraging our shared expertise and attention to detail, we deliver high-quality productions that not only meet but consistently exceed expectations.</p>
 
                                     <div class="mil-about-quote">
                                         <div class="mil-avatar mil-up">
@@ -305,7 +305,7 @@
                                 <div class="mil-about-photo mil-mb-90">
                                     <div class="mil-lines-place"></div>
                                     <div class="mil-up mil-img-frame" style="padding-bottom: 160%;">
-                                        <img src="img/photo/1.jpg" alt="img" class="mil-scale" data-value-1="1" data-value-2="1.2">
+                                        <img src="img/photo/img1.jpg" alt="img" class="mil-scale" data-value-1="1" data-value-2="1.2">
                                     </div>
                                 </div>
 
@@ -399,9 +399,9 @@
 
                                 <div class="mil-mb-90">
                                     <h2 class="mil-up mil-mb-60">Meet <br>Our Team</h2>
-                                    <p class="mil-up mil-mb-30">We are talented individuals who are passionate about bringing ideas to life. With a diverse range of backgrounds and skill sets, we collaborate to produce effective solutions for our clients.</p>
+                                    <p class="mil-up mil-mb-30">We are a team of creative storytellers dedicated to turning ideas into compelling visual experiences. With a diverse blend of talent in cinematography, editing, directing, and production, we collaborate seamlessly to craft high-quality videos that capture attention and tell meaningful stories.</p>
 
-                                    <p class="mil-up mil-mb-60">Together, our creative team is committed to delivering impactful work that exceeds expectations.</p>
+                                    <p class="mil-up mil-mb-60">Together, our production team is committed to delivering visually striking content that engages audiences and exceeds expectations.</p>
 
                                     <div class="mil-up"><a href="team.php" class="mil-button mil-arrow-place mil-mb-60"><span>Read more</span></a></div>
 
@@ -417,18 +417,18 @@
                                     <div class="row mil-mb-60">
                                         <div class="col-sm-6">
 
-                                            <div class="mil-team-card mil-up mil-mb-30">
+                                            <div class="mil-team-card mil-up mil-mb-30" style="border: 3px solid orange;">
                                                 <img src="img/team/kalebTariku.jpg" alt="Team member">
                                                 <div class="mil-description">
                                                     <div class="mil-secrc-text">
-                                                        <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Kaleb Tariku</a></h5>
-                                                        <p class="mil-link mil-light-soft mil-mb-10">CEO, Creative Director & Cinematographer</p>
-                                                        <ul class="mil-social-icons mil-center">
+                                                        <h5 class="mil-muted"><a href="team.php">Kaleb Tariku</a></h5>
+                                                        <p class="mil-link mil-light-soft" style="font-size: 10px;">CEO, Creative Director & Cinematographer</p>
+                                                        <!-- <ul class="mil-social-icons mil-center">
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                                        </ul>
+                                                        </ul> -->
                                                     </div>
                                                 </div>
                                             </div>
@@ -437,14 +437,14 @@
                                                 <img src="img/team/serawdinkMelaku.jpg" alt="Team member">
                                                 <div class="mil-description">
                                                     <div class="mil-secrc-text">
-                                                        <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Serawdink Melaku</a></h5>
-                                                        <p class="mil-link mil-light-soft mil-mb-10">Art Director & Costume Designer</p>
-                                                        <ul class="mil-social-icons mil-center">
+                                                        <h5 class="mil-muted"><a href="team.php">Serawdink Melaku</a></h5>
+                                                        <p class="mil-link mil-light-soft" style="font-size: 10px;">Art Director & Costume Designer</p>
+                                                        <!-- <ul class="mil-social-icons mil-center">
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                                        </ul>
+                                                        </ul> -->
                                                     </div>
                                                 </div>
                                             </div>
@@ -452,20 +452,20 @@
                                         </div>
                                         <div class="col-sm-6">
 
-                                            <p class="mil-mobile-hidden mil-text-sm mil-mb-30" style="height: 30px;"><span class="mil-accent">*</span> The founders of our agency</p>
+                                            <p class="mil-mobile-hidden mil-text-sm mil-mb-30" style="height: 30px;"><span class="mil-accent">*</span>The Founder</p>
 
                                             <div class="mil-team-card mil-up mil-mb-30">
                                                 <img src="img/team/barkotBirhanu.jpeg" alt="Team member">
                                                 <div class="mil-description">
                                                     <div class="mil-secrc-text">
-                                                        <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Barkot Birhanu</a></h5>
-                                                        <p class="mil-link mil-light-soft mil-mb-10">Creative content Strategist & Script Writer</p>
-                                                        <ul class="mil-social-icons mil-center">
+                                                        <h5 class="mil-muted"><a href="team.php">Barkot Birhanu</a></h5>
+                                                        <p class="mil-link mil-light-soft" style="font-size: 10px;">Creative content Strategist & Script Writer</p>
+                                                        <!-- <ul class="mil-social-icons mil-center">
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                                        </ul>
+                                                        </ul> -->
                                                     </div>
                                                 </div>
                                             </div>
@@ -474,14 +474,14 @@
                                                 <img src="img/team/miheretabSolomon.jpg" alt="Team member">
                                                 <div class="mil-description">
                                                     <div class="mil-secrc-text">
-                                                        <h5 class="mil-muted mil-mb-5"><a href="home-2.php">Miheretab Solomon </a></h5>
-                                                        <p class="mil-link mil-light-soft mil-mb-10">Video Editor & Photographer</p>
-                                                        <ul class="mil-social-icons mil-center">
+                                                        <h5 class="mil-muted"><a href="team.php">Miheretab Solomon </a></h5>
+                                                        <p class="mil-link mil-light-soft" style="font-size: 10px;">Video Editor & Photographer</p>
+                                                        <!-- <ul class="mil-social-icons mil-center">
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-twitter"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-github"></i></a></li>
-                                                        </ul>
+                                                        </ul> -->
                                                     </div>
                                                 </div>
                                             </div>
@@ -501,31 +501,31 @@
                 <section class="mil-soft-bg">
                     <div class="container mil-p-120-120">
 
-                        <div class="row">
+                        <!-- <div class="row">
                             <div class="col-lg-10">
 
                                 <span class="mil-suptitle mil-suptitle-right mil-suptitle-dark mil-up">Customer reviews are a valuable source <br>of information for both businesses and consumers.</span>
 
                             </div>
-                        </div>
+                        </div> -->
 
-                        <h2 class="mil-center mil-up mil-mb-60">Customer <span class="mil-thin">Voices:</span> <br>Hear What <span class="mil-thin">They Say!</span></h2>
+                        <!-- <h2 class="mil-center mil-up mil-mb-60">Customer <span class="mil-thin">Voices:</span> <br>Hear What <span class="mil-thin">They Say!</span></h2> -->
 
                         <div class="mil-revi-pagination mil-up mil-mb-60"></div>
 
                         <div class="row mil-relative justify-content-center">
                             <div class="col-lg-8">
 
-                                <div class="mil-slider-nav mil-soft mil-reviews-nav mil-up">
+                                <!-- <div class="mil-slider-nav mil-soft mil-reviews-nav mil-up">
                                     <div class="mil-slider-arrow mil-prev mil-revi-prev mil-arrow-place"></div>
                                     <div class="mil-slider-arrow mil-revi-next mil-arrow-place"></div>
-                                </div>
-
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" class="mil-quote-icon mil-up">
+                                </div> -->
+                                <h2 class="mil-center mil-up mil-mb-60">Partners</h2>
+                                <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" class="mil-quote-icon mil-up">
                                     <path d="M 13.5 10 A 8.5 8.5 0 0 0 13.5 27 A 8.5 8.5 0 0 0 18.291016 25.519531 C 17.422273 29.222843 15.877848 31.803343 14.357422 33.589844 C 12.068414 36.279429 9.9433594 37.107422 9.9433594 37.107422 A 1.50015 1.50015 0 1 0 11.056641 39.892578 C 11.056641 39.892578 13.931586 38.720571 16.642578 35.535156 C 19.35357 32.349741 22 27.072581 22 19 A 1.50015 1.50015 0 0 0 21.984375 18.78125 A 8.5 8.5 0 0 0 13.5 10 z M 34.5 10 A 8.5 8.5 0 0 0 34.5 27 A 8.5 8.5 0 0 0 39.291016 25.519531 C 38.422273 29.222843 36.877848 31.803343 35.357422 33.589844 C 33.068414 36.279429 30.943359 37.107422 30.943359 37.107422 A 1.50015 1.50015 0 1 0 32.056641 39.892578 C 32.056641 39.892578 34.931586 38.720571 37.642578 35.535156 C 40.35357 32.349741 43 27.072581 43 19 A 1.50015 1.50015 0 0 0 42.984375 18.78125 A 8.5 8.5 0 0 0 34.5 10 z" fill="#000000" />
-                                </svg>
+                                </svg> -->
 
-                                <div class="swiper-container mil-reviews-slider">
+                                <!-- <div class="swiper-container mil-reviews-slider">
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <div class="mil-review-frame mil-center" data-swiper-parallax="-200" data-swiper-parallax-opacity="0">
@@ -577,7 +577,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
 
                             </div>
                         </div>
@@ -585,25 +585,25 @@
                     </div>
                 </section>
                 <!-- reviews end -->
-
+                
                 <!-- partners -->
                 <div class="mil-soft-bg">
                     <div class="container mil-p-0-120">
 
-                        <div class="swiper-container mil-infinite-show mil-up">
+                        <div class="swiper-container mil-infinite-show mil-up" >
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <a href="#." class="mil-partner-frame" style="width: 60px;"><img src="img/partners/1.svg" alt="logo"></a>
+                                    <a href="https://www.zohar.et" target="_blank" class="mil-partner-frame" style="width: 60px;"><img src="img/partners/zohar.png" alt="logo"></a>
+                                </div>
+                                <div class="swiper-slide" >
+                                    <a href="https://www.ekubers.com" target="_blank" class="mil-partner-frame" style="width: 100px;"><img src="img/partners/ekubers.png" style="width: 30px;" alt="logo"></a>
                                 </div>
                                 <div class="swiper-slide">
+                                    <a href="https://hephzibahministry.com/" target="_blank" class="mil-partner-frame" style="width: 60px;"><img src="img/partners/hephzibah.png" style="width: 30px;" alt="logo"></a>
+                                </div>
+                                <!-- <div class="swiper-slide">
                                     <a href="#." class="mil-partner-frame" style="width: 100px;"><img src="img/partners/2.svg" alt="logo"></a>
-                                </div>
-                                <div class="swiper-slide">
-                                    <a href="#." class="mil-partner-frame" style="width: 60px;"><img src="img/partners/1.svg" alt="logo"></a>
-                                </div>
-                                <div class="swiper-slide">
-                                    <a href="#." class="mil-partner-frame" style="width: 100px;"><img src="img/partners/2.svg" alt="logo"></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
 
