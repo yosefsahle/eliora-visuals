@@ -19,6 +19,18 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- page name -->
     <title>Eliora · Pricing</title>
+    <style>
+        .cont-only{
+            padding: 80px !important;
+            display: flex;
+            flex-direction: column;
+        }
+        @media (max-width: 768px) {
+            .cont-only {
+                padding: 20px !important;
+            }
+        }
+    </style>
 
 </head>
 
@@ -249,17 +261,17 @@
                     <!-- pricing section (replaces services) -->
                     <section id="pricing-plans">
                         <div class="mi-invert-fix">
-                            <div class="container mil-p-120-60">
+                            <div class="cont-only col" >
                                 <div class="row">
                                     
                                     
                                         
                                             <!-- pricing card 1: essential -->
-                                            <div class="col-md-4 col-lg-4 mil-mb-10">
-                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 30px; border: 1px solid rgba(255,255,255,0.06);">
+                                            <div class="col-md-3 col-lg-3">
+                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 20px; border: 1px solid rgba(255,255,255,0.06);">
                                                     <div class="mil-muted mil-up mil-mb-20" style="font-size: 14px; letter-spacing: 2px;">ELIORA SILVER</div>
-                                                    <h3 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">20,000 ETB</h3>
-                                                    <p class="mil-light-soft mil-up mil-mb-30">per month</p>
+                                                    <h4 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">20,000 ETB</h4>
+                                                    <p class="mil-light-soft mil-up mil-mb-20">per month</p>
                                                     <ul class="mil-service-list mil-light mil-mb-30">
                                                         <li class="mil-up">12 High-Quality Videos per Month</li>
                                                         <li class="mil-up">Professional Shoot Setup</li>
@@ -269,16 +281,17 @@
                                                         <li class="mil-up">Content Posting & Scheduling</li>
                                                         <li class="mil-up">Comment & DM Management</li>
                                                         <li class="mil-up">Weekly Performance Insights</li>
+                                                        <li class="mil-up" style="color: orange; font-weight: bold; font-size: 16px;">one shooting Day</li>
                                                     </ul>
                                                     <div class="mil-link mil-accent mil-arrow-place mil-up">
                                                         <span>Choose plan</span>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-md-4 col-lg-4 mil-mb-10">
-                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 30px; border: 1px solid rgba(255,255,255,0.06);">
+                                            <div class="col-md-3 col-lg-3">
+                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 20px; border: 1px solid rgba(255,255,255,0.06);">
                                                     <div class="mil-muted mil-up mil-mb-20" style="font-size: 14px; letter-spacing: 2px;">ELIORA GOLD</div>
-                                                    <h3 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">26,000 ETB</h3>
+                                                    <h4 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">26,000 ETB</h4>
                                                     <p class="mil-light-soft mil-up mil-mb-30">per month</p>
                                                     <ul class="mil-service-list mil-light mil-mb-30">
                                                         <li class="mil-up">16 High-Quality Videos per Month</li>
@@ -289,6 +302,7 @@
                                                         <li class="mil-up">Content Posting & Scheduling</li>
                                                         <li class="mil-up">Comment & DM Management</li>
                                                         <li class="mil-up">Weekly Performance Insights</li>
+                                                        <li class="mil-up" style="color: orange; font-weight: bold; font-size: 16px;">one shooting Day</li>
                                                     </ul>
                                                     <div class="mil-link mil-accent mil-arrow-place mil-up">
                                                         <span>Choose plan</span>
@@ -320,10 +334,10 @@
 
                                             
                                             <!-- pricing card 3: unlimited -->
-                                            <div class="col-md-4 col-lg-4 mil-mb-10">
-                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 30px; border: 1px solid rgba(255,255,255,0.06);">
+                                            <div class="col-md-3 col-lg-3">
+                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 20px; border: 1px solid rgba(255,255,255,0.06);">
                                                     <div class="mil-muted mil-up mil-mb-20" style="font-size: 14px; letter-spacing: 2px;">ELIORA PLATINUM</div>
-                                                    <h3 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">30,000 ETB</h3>
+                                                    <h4 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">30,000 ETB</h4>
                                                     <p class="mil-light-soft mil-up mil-mb-30">per month</p>
                                                     <ul class="mil-service-list mil-light mil-mb-30">
                                                         <li class="mil-up">20 High-Quality Videos per Month</li>
@@ -334,6 +348,7 @@
                                                         <li class="mil-up">Content Posting & Scheduling</li>
                                                         <li class="mil-up">Comment & DM Management</li>
                                                         <li class="mil-up">Weekly Performance Insights</li>
+                                                        <li class="mil-up" style="color: orange; font-weight: bold; font-size: 16px;">one shooting Day</li>
                                                     </ul>
                                                     <div class="mil-link mil-accent mil-arrow-place mil-up">
                                                         <span>Choose plan</span>
@@ -341,10 +356,10 @@
                                                 </div>
                                             </div>
                                             <!-- pricing card 4: unlimited -->
-                                            <div class="col-md-4 col-lg-4 mil-mb-10">
-                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 30px; border: 1px solid rgba(255,255,255,0.06);">
+                                            <div class="col-md-3 col-lg-3">
+                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 20px; border: 1px solid rgba(255,255,255,0.06);">
                                                     <div class="mil-muted mil-up mil-mb-20" style="font-size: 14px; letter-spacing: 2px;">ELIORA DIAMOND</div>
-                                                    <h3 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">40,000 ETB</h3>
+                                                    <h4 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">40,000 ETB</h4>
                                                     <p class="mil-light-soft mil-up mil-mb-30">per month</p>
                                                     <ul class="mil-service-list mil-light mil-mb-30">
                                                         <li class="mil-up">30 High-Quality Videos per Month</li>
@@ -356,6 +371,187 @@
                                                         <li class="mil-up">Comment & DM Management</li>
                                                         <li class="mil-up">Weekly Performance Insights</li>
                                                         <li class="mil-up">Priority Support & Faster Delivery</li>
+                                                        <li class="mil-up" style="color: orange; font-weight: bold; font-size: 16px;">one shooting Day</li>
+                                                    </ul>
+                                                    <div class="mil-link mil-accent mil-arrow-place mil-up">
+                                                        <span>Choose plan</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <h3 class="mil-muted mil-up mil-mb-20">Star Packages With Two Days Shooting</h3>
+                                        <div class="row">
+                                            <!-- SECOND SECTION FOR PRICING  -->
+                                            <div class="col-md-3 col-lg-3 mil-mb-10">
+                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 20px; border: 1px solid rgba(255,255,255,0.06);">
+                                                    <div class="mil-muted mil-up mil-mb-20" style="font-size: 14px; letter-spacing: 2px;">ELIORA SILVER - STAR</div>
+                                                    <h4 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">30,000 ETB</h4>
+                                                    <p class="mil-light-soft mil-up mil-mb-20">per month</p>
+                                                    <ul class="mil-service-list mil-light mil-mb-30">
+                                                        <li class="mil-up">12 High-Quality Videos per Month</li>
+                                                        <li class="mil-up">Professional Shoot Setup</li>
+                                                        <li class="mil-up">Cinematic Filming & Editing</li>
+                                                        <li class="mil-up">4 Branded Social Media Visuals</li>
+                                                        <li class="mil-up">Creative Scriptwriting</li>
+                                                        <li class="mil-up">Content Posting & Scheduling</li>
+                                                        <li class="mil-up">Comment & DM Management</li>
+                                                        <li class="mil-up">Weekly Performance Insights</li>
+                                                        <li class="mil-up" style="color: orange; font-weight: bold; font-size: 16px;">Two Shooting Days</li>
+                                                    </ul>
+                                                    <div class="mil-link mil-accent mil-arrow-place mil-up">
+                                                        <span>Choose plan</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-lg-3 mil-mb-10">
+                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 20px; border: 1px solid rgba(255,255,255,0.06);">
+                                                    <div class="mil-muted mil-up mil-mb-20" style="font-size: 14px; letter-spacing: 2px;">ELIORA GOLD - STAR</div>
+                                                    <h4 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">36,000 ETB</h4>
+                                                    <p class="mil-light-soft mil-up mil-mb-30">per month</p>
+                                                    <ul class="mil-service-list mil-light mil-mb-30">
+                                                        <li class="mil-up">16 High-Quality Videos per Month</li>
+                                                        <li class="mil-up">Professional Shoot Setup</li>
+                                                        <li class="mil-up">Cinematic Filming & Editing</li>
+                                                        <li class="mil-up">6 Branded Social Media Visuals</li>
+                                                        <li class="mil-up">Creative Scriptwriting</li>
+                                                        <li class="mil-up">Content Posting & Scheduling</li>
+                                                        <li class="mil-up">Comment & DM Management</li>
+                                                        <li class="mil-up">Weekly Performance Insights</li>
+                                                        <li class="mil-up" style="color: orange; font-weight: bold; font-size: 16px;">Two Shooting Days</li>
+                                                    </ul>
+                                                    <div class="mil-link mil-accent mil-arrow-place mil-up">
+                                                        <span>Choose plan</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-lg-3 mil-mb-10">
+                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 20px; border: 1px solid rgba(255,255,255,0.06);">
+                                                    <div class="mil-muted mil-up mil-mb-20" style="font-size: 14px; letter-spacing: 2px;">ELIORA PLATINUM - STAR</div>
+                                                    <h4 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">40,000 ETB</h4>
+                                                    <p class="mil-light-soft mil-up mil-mb-30">per month</p>
+                                                    <ul class="mil-service-list mil-light mil-mb-30">
+                                                        <li class="mil-up">20 High-Quality Videos per Month</li>
+                                                        <li class="mil-up">Professional Shoot Setup</li>
+                                                        <li class="mil-up">Cinematic Filming & Editing</li>
+                                                        <li class="mil-up">8 Branded Social Media Visuals</li>
+                                                        <li class="mil-up">Creative Scriptwriting</li>
+                                                        <li class="mil-up">Content Posting & Scheduling</li>
+                                                        <li class="mil-up">Comment & DM Management</li>
+                                                        <li class="mil-up">Weekly Performance Insights</li>
+                                                        <li class="mil-up" style="color: orange; font-weight: bold; font-size: 16px;">Two Shooting Days</li>
+                                                    </ul>
+                                                    <div class="mil-link mil-accent mil-arrow-place mil-up">
+                                                        <span>Choose plan</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- pricing card 4: unlimited -->
+                                            <div class="col-md-3 col-lg-3 mil-mb-10">
+                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 20px; border: 1px solid rgba(255,255,255,0.06);">
+                                                    <div class="mil-muted mil-up mil-mb-20" style="font-size: 14px; letter-spacing: 2px;">ELIORA DIAMOND - STAR</div>
+                                                    <h4 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">50,000 ETB</h4>
+                                                    <p class="mil-light-soft mil-up mil-mb-30">per month</p>
+                                                    <ul class="mil-service-list mil-light mil-mb-30">
+                                                        <li class="mil-up">30 High-Quality Videos per Month</li>
+                                                        <li class="mil-up">Professional Shoot Setup</li>
+                                                        <li class="mil-up">Cinematic Filming & Editing</li>
+                                                        <li class="mil-up">10 Branded Social Media Visuals</li>
+                                                        <li class="mil-up">Creative Scriptwriting</li>
+                                                        <li class="mil-up">Content Posting & Scheduling</li>
+                                                        <li class="mil-up">Comment & DM Management</li>
+                                                        <li class="mil-up">Weekly Performance Insights</li>
+                                                        <li class="mil-up">Priority Support & Faster Delivery</li>
+                                                        <li class="mil-up" style="color: orange; font-weight: bold; font-size: 16px;">Two Shooting Days</li>
+                                                    </ul>
+                                                    <div class="mil-link mil-accent mil-arrow-place mil-up">
+                                                        <span>Choose plan</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <h3 class="mil-muted mil-up mil-mb-20">Premium Packages With Four Days Shooting</h3>
+                                        <div class="row"> 
+                                            <!-- Third SECTION FOR PRICING  -->
+                                            <div class="col-md-3 col-lg-3 mil-mb-10">
+                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 20px; border: 1px solid rgba(255,255,255,0.06);">
+                                                    <div class="mil-muted mil-up mil-mb-20" style="font-size: 14px; letter-spacing: 2px;">ELIORA SILVER - PREMIUM</div>
+                                                    <h4 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">50,000 ETB</h4>
+                                                    <p class="mil-light-soft mil-up mil-mb-20">per month</p>
+                                                    <ul class="mil-service-list mil-light mil-mb-30">
+                                                        <li class="mil-up">12 High-Quality Videos per Month</li>
+                                                        <li class="mil-up">Professional Shoot Setup</li>
+                                                        <li class="mil-up">Cinematic Filming & Editing</li>
+                                                        <li class="mil-up">4 Branded Social Media Visuals</li>
+                                                        <li class="mil-up">Creative Scriptwriting</li>
+                                                        <li class="mil-up">Content Posting & Scheduling</li>
+                                                        <li class="mil-up">Comment & DM Management</li>
+                                                        <li class="mil-up">Weekly Performance Insights</li>
+                                                        <li class="mil-up" style="color: orange; font-weight: bold; font-size: 16px;">Four Shooting Days</li>
+                                                    </ul>
+                                                    <div class="mil-link mil-accent mil-arrow-place mil-up">
+                                                        <span>Choose plan</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-lg-3 mil-mb-10">
+                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 20px; border: 1px solid rgba(255,255,255,0.06);">
+                                                    <div class="mil-muted mil-up mil-mb-20" style="font-size: 14px; letter-spacing: 2px;">ELIORA GOLD - PREMIUM</div>
+                                                    <h4 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">56,000 ETB</h4>
+                                                    <p class="mil-light-soft mil-up mil-mb-30">per month</p>
+                                                    <ul class="mil-service-list mil-light mil-mb-30">
+                                                        <li class="mil-up">16 High-Quality Videos per Month</li>
+                                                        <li class="mil-up">Professional Shoot Setup</li>
+                                                        <li class="mil-up">Cinematic Filming & Editing</li>
+                                                        <li class="mil-up">6 Branded Social Media Visuals</li>
+                                                        <li class="mil-up">Creative Scriptwriting</li>
+                                                        <li class="mil-up">Content Posting & Scheduling</li>
+                                                        <li class="mil-up">Comment & DM Management</li>
+                                                        <li class="mil-up">Weekly Performance Insights</li>
+                                                        <li class="mil-up" style="color: orange; font-weight: bold; font-size: 16px;">Four Shooting Days</li>
+                                                    </ul>
+                                                    <div class="mil-link mil-accent mil-arrow-place mil-up">
+                                                        <span>Choose plan</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-lg-3 mil-mb-10">
+                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 20px; border: 1px solid rgba(255,255,255,0.06);">
+                                                    <div class="mil-muted mil-up mil-mb-20" style="font-size: 14px; letter-spacing: 2px;">ELIORA PLATINUM - PREMIUM</div>
+                                                    <h4 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">60,000 ETB</h4>
+                                                    <p class="mil-light-soft mil-up mil-mb-30">per month</p>
+                                                    <ul class="mil-service-list mil-light mil-mb-30">
+                                                        <li class="mil-up">20 High-Quality Videos per Month</li>
+                                                        <li class="mil-up">Professional Shoot Setup</li>
+                                                        <li class="mil-up">Cinematic Filming & Editing</li>
+                                                        <li class="mil-up">8 Branded Social Media Visuals</li>
+                                                        <li class="mil-up">Creative Scriptwriting</li>
+                                                        <li class="mil-up">Content Posting & Scheduling</li>
+                                                        <li class="mil-up">Comment & DM Management</li>
+                                                        <li class="mil-up">Weekly Performance Insights</li>
+                                                        <li class="mil-up" style="color: orange; font-weight: bold; font-size: 16px;">Four Shooting Days</li>
+                                                    </ul>
+                                                    <div class="mil-link mil-accent mil-arrow-place mil-up">
+                                                        <span>Choose plan</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- pricing card 4: unlimited -->
+                                            <div class="col-md-3 col-lg-3 mil-mb-10">
+                                                <div class="mil-service-card-lg mil-offset" style="background: rgba(255,255,255,0.02); padding: 20px; border: 1px solid rgba(255,255,255,0.06);">
+                                                    <div class="mil-muted mil-up mil-mb-20" style="font-size: 14px; letter-spacing: 2px;">ELIORA DIAMOND - PREMIUM</div>
+                                                    <h4 class="mil-muted mil-up mil-mb-20" style="line-height: 1;">70,000 ETB</h4>
+                                                    <p class="mil-light-soft mil-up mil-mb-30">per month</p>
+                                                    <ul class="mil-service-list mil-light mil-mb-30">
+                                                        <li class="mil-up">30 High-Quality Videos per Month</li>
+                                                        <li class="mil-up">Professional Shoot Setup</li>
+                                                        <li class="mil-up">Cinematic Filming & Editing</li>
+                                                        <li class="mil-up">10 Branded Social Media Visuals</li>
+                                                        <li class="mil-up">Creative Scriptwriting</li>
+                                                        <li class="mil-up">Content Posting & Scheduling</li>
+                                                        <li class="mil-up">Comment & DM Management</li>
+                                                        <li class="mil-up">Weekly Performance Insights</li>
+                                                        <li class="mil-up">Priority Support & Faster Delivery</li>
+                                                        <li class="mil-up" style="color: orange; font-weight: bold; font-size: 16px;">Four Shooting Days</li>
                                                     </ul>
                                                     <div class="mil-link mil-accent mil-arrow-place mil-up">
                                                         <span>Choose plan</span>
