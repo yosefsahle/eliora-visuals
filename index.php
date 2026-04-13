@@ -295,7 +295,7 @@
                                         <div class="mil-avatar mil-up">
                                             <img src="img/team/kalebTariku.jpg" alt="Founder">
                                         </div>
-                                        <h6 class="mil-quote mil-up">Passionately Creating <span class="mil-thin">Design Wonders:</span> Unleashing <span class="mil-thin">Boundless Creativity</span></h6>
+                                        <h6 class="mil-quote mil-up">Your Vision, <span class="mil-thin">Our Production:</span> Where Vision <span class="mil-thin">Meets the Lens</span></h6>
                                     </div>
                                 </div>
 

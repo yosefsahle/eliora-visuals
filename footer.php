@@ -34,7 +34,7 @@ echo '<footer class="mil-dark-bg">
                                                         <a href="contact.php">Contact</a>
                                                     </li>
                                                     <li class="mil-up">
-                                                        <a href="blog.php">Blog</a>
+                                                        <a href="team.php">Team</a>
                                                     </li>
                                                 </ul>
                                             </nav>
@@ -43,10 +43,13 @@ echo '<footer class="mil-dark-bg">
                                         <div class="col-md-6 col-lg-5">
 
                                             <ul class="mil-menu-list mil-up mil-mb-60">
-                                                <li><a href="#." class="mil-light-soft">Privacy Policy</a></li>
-                                                <li><a href="#." class="mil-light-soft">Terms and conditions</a></li>
-                                                <li><a href="#." class="mil-light-soft">Cookie Policy</a></li>
-                                                <li><a href="#." class="mil-light-soft">Careers</a></li>
+                                                <li><a href="our-services/social-media-managment.php" class="mil-light-soft">SM Managment</a></li>
+                                                <li><a href="our-services/weeding-production.php" class="mil-light-soft">Weeding Production</a></li>
+                                                <li><a href="our-services/music-clip-production.php" class="mil-light-soft">Music Production</a></li>
+                                                <li><a href="our-services/event-production.php" class="mil-light-soft">Event Production</a></li>
+                                                <li><a href="our-services/live-streaming.php" class="mil-light-soft">Live Streaming</a></li>
+                                                <li><a href="our-services/tv-comercials.php" class="mil-light-soft">TV Comercials</a></li>
+                                                
                                             </ul>
 
                                         </div>
