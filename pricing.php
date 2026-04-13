@@ -67,7 +67,7 @@
         <div class="mil-menu-frame">
             <!-- frame clone -->
             <div class="mil-frame-top">
-                <a href="index.php" class="mil-logo">Eliora.</a>
+                <a href="../index.php" class="mil-logo">Eliora.</a>
                 <div class="mil-menu-btn">
                     <span></span>
                 </div>
@@ -81,46 +81,52 @@
                             <nav class="mil-main-menu" id="swupMenu">
                                 <ul>
                                     <li class="mil-has-children">
-                                        <a href="index.php">Homepage</a>
+                                        <a href="../index.php">Homepage</a>
                                         <!-- <ul>
                                             <li><a href="index.php">Landing page</a></li>
                                             <li><a href="home-2.php">Personal</a></li>
                                             <li><a href="portfolio-3.php">Portfolio slider</a></li>
                                         </ul> -->
                                     </li>
-                                    <li class="mil-has-children">
+                                    <!-- <li class="mil-has-children">
                                         <a href="portfolio.php">Portfolio</a>
-                                        <!-- <ul>
+                                        <ul>
                                             <li><a href="portfolio-1.php">Grid type 1</a></li>
                                             <li><a href="portfolio-2.php">Grid type 2</a></li>
                                             <li><a href="portfolio-3.php">Slider</a></li>
-                                        </ul> -->
-                                    </li>
+                                        </ul>
+                                    </li> -->
                                     <li class="mil-has-children">
-                                        <a href="services.php">Services</a>   <!-- active / pricing -->
+                                        <a href="services.php">Services</a>
                                         <!-- <ul>
                                             <li><a href="services.php">Services List</a></li>
-                                            <li><a href="pricing.php">Pricing plans</a></li>  
+                                            <li><a href="service.php">Single service</a></li>
                                         </ul> -->
                                     </li>
                                     <li class="mil-has-children mil-active">
                                         <a href="pricing.php">Pricing</a>
                                     </li>
                                     <li class="mil-has-children">
+                                        <a href="team.php">Team</a>
+                                    </li>
+                                    <li class="mil-has-children">
+                                        <a href="contact.php">Contact</a>
+                                    </li>
+                                    <!-- <li class="mil-has-children">
                                         <a href="#.">Newsletter</a>
                                         <ul>
                                             <li><a href="blog.php">Blog List</a></li>
                                             <li><a href="publication.php">Publication</a></li>
                                         </ul>
-                                    </li>
-                                    <li class="mil-has-children">
+                                    </li> -->
+                                    <!-- <li class="mil-has-children">
                                         <a href="#.">Other pages</a>
                                         <ul>
                                             <li><a href="team.php">Team</a></li>
                                             <li><a href="contact.php">Contact</a></li>
                                             <li><a href="404.php">404</a></li>
                                         </ul>
-                                    </li>
+                                    </li> -->
                                 </ul>
                             </nav>
 

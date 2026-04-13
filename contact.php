@@ -88,14 +88,14 @@
                                             <li><a href="portfolio-3.php">Portfolio slider</a></li>
                                         </ul> -->
                                     </li>
-                                    <li class="mil-has-children">
+                                    <!-- <li class="mil-has-children">
                                         <a href="portfolio.php">Portfolio</a>
-                                        <!-- <ul>
+                                        <ul>
                                             <li><a href="portfolio-1.php">Grid type 1</a></li>
                                             <li><a href="portfolio-2.php">Grid type 2</a></li>
                                             <li><a href="portfolio-3.php">Slider</a></li>
-                                        </ul> -->
-                                    </li>
+                                        </ul>
+                                    </li> -->
                                     <li class="mil-has-children">
                                         <a href="services.php">Services</a>
                                         <!-- <ul>

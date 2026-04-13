@@ -88,14 +88,14 @@
                                             <li><a href="portfolio-3.php">Portfolio slider</a></li>
                                         </ul> -->
                                     </li>
-                                    <li class="mil-has-children">
+                                    <!-- <li class="mil-has-children">
                                         <a href="portfolio.php">Portfolio</a>
-                                        <!-- <ul>
+                                        <ul>
                                             <li><a href="portfolio-1.php">Grid type 1</a></li>
                                             <li><a href="portfolio-2.php">Grid type 2</a></li>
                                             <li><a href="portfolio-3.php">Slider</a></li>
-                                        </ul> -->
-                                    </li>
+                                        </ul>
+                                    </li> -->
                                     <li class="mil-has-children">
                                         <a href="services.php">Services</a>
                                         <!-- <ul>
@@ -252,9 +252,9 @@
                                     <span>What we do</span>
                                 </a>
 
-                                <a href="portfolio-1.php" class="mil-link mil-muted mil-arrow-place">
+                                <!-- <a href="portfolio-1.php" class="mil-link mil-muted mil-arrow-place">
                                     <span>View works</span>
-                                </a>
+                                </a> -->
 
                                 <div class="mil-circle-text">
                                     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve" class="mil-ct-svg mil-rotate" data-value="360">
