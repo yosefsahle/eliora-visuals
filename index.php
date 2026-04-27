@@ -434,11 +434,11 @@
                                             </div>
 
                                             <div class="mil-team-card mil-up mil-mb-30">
-                                                <img src="img/team/serawdinkMelaku.jpg" alt="Team member">
+                                                <img src="img/team/sifenChichi.jpg" alt="Team member">
                                                 <div class="mil-description">
                                                     <div class="mil-secrc-text">
-                                                        <h5 class="mil-muted"><a href="team.php">Serawdink Melaku</a></h5>
-                                                        <p class="mil-link mil-light-soft" style="font-size: 10px;">Art Director & Costume Designer</p>
+                                                        <h5 class="mil-muted"><a href="team.php">Sifen Chichi</a></h5>
+                                                        <p class="mil-link mil-light-soft" style="font-size: 10px;">Production Manager & Assistant Director</p>
                                                         <!-- <ul class="mil-social-icons mil-center">
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>

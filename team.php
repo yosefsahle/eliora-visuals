@@ -270,7 +270,7 @@
                                 </div>
 
                             </div>
-                            <!-- <div class="col-sm-6 col-md-4 col-lg-3">
+                            <div class="col-sm-6 col-md-4 col-lg-3">
 
                                 <div class="mil-team-card mil-up mil-mb-30">
                                     <img src="img/team/sifenChichi.jpg" alt="Team member">
@@ -282,7 +282,7 @@
                                     </div>
                                 </div>
 
-                            </div> -->
+                            </div>
                             <div class="col-sm-6 col-md-4 col-lg-3">
 
                                 <div class="mil-team-card mil-up mil-mb-30">

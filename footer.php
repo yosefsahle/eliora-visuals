@@ -21,11 +21,11 @@ echo '<footer class="mil-dark-bg">
 
                                             <nav class="mil-footer-menu mil-mb-60">
                                                 <ul>
-                                                    <li class="mil-up mil-active">
+                                                    <li class="mil-up">
                                                         <a href="index.php">Home</a>
                                                     </li>
                                                     <li class="mil-up">
-                                                        <a href="portfolio-1.php">Portfolio</a>
+                                                        <a href="pricing.php">Pricing</a>
                                                     </li>
                                                     <li class="mil-up">
                                                         <a href="services.php">Services</a>
