@@ -103,9 +103,9 @@
                                             <li><a href="service.php">Single service</a></li>
                                         </ul> -->
                                     </li>
-                                    <li class="mil-has-children">
+                                    <!-- <li class="mil-has-children">
                                         <a href="pricing.php">Pricing</a>
-                                    </li>
+                                    </li> -->
                                     <li class="mil-has-children">
                                         <a href="team.php">Team</a>
                                     </li>
